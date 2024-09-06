@@ -783,7 +783,7 @@ CREATE TABLE interview.rating
  create_date     date NOT NULL,
  modified_date   date NULL,
  hash_value      bytea NULL,
- interview_id    uuid NOT NULL DEFAULT gen_random_uuid(),
+ interview_id    uuid NOT NULL,
  CONSTRAINT PK_2_rating PRIMARY KEY ( rating_id ),
  CONSTRAINT FK_22 FOREIGN KEY ( interview_id ) REFERENCES client.interview ( interview_id )
 );
