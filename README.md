@@ -30,6 +30,7 @@ The chatbot conducts interviews with client contacts, asking the generated data 
 After data collection, the gathered information is analyzed for insights. Follow-up interviews may be scheduled based on the analysis to gather more detailed information or clarify responses.
 
 ## Database Design
+![data discovery](kds_discovery-2024-09-03.png)
 
 The database design supports the chatbot-based application with various schemas and tables to store and manage data effectively. Below is an overview of the key schemas and tables.
 
