@@ -84,4 +84,6 @@ The database design supports the chatbot-based application with various schemas 
 - **stage.contact**: Stores contact details related to organizations.
 - **stage.business_unit**: Stores business unit information and relationships to parent and subsidiary data.
 
+## Database Installation 
 
+To date ALL database development work has been done on PostgreSQL 14.13 on Linux Mint 21.3 Cinnamon.  To install, run e "bash 0030_install_database.sh file" in the local github cloned directory.
