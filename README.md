@@ -86,4 +86,4 @@ The database design supports the chatbot-based application with various schemas 
 
 ## Database Installation 
 
-To date ALL database development work has been done on PostgreSQL 14.13 on Linux Mint 21.3 Cinnamon.  To install, run "bash 0030_install_database.sh" in a local github cloned directory.
+To date ALL database development work has been done on PostgreSQL 14.13 on Linux Mint 21.3 Cinnamon. For help with installing PostgreSQL,[see](https://postgresql.org). Once installed,run "bash 0030_install_database.sh" from the command line in a local github cloned directory.
