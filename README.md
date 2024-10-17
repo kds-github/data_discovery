@@ -90,7 +90,7 @@ To date ALL database development work has been done on PostgreSQL 14.13 on Linux
 ### Update 2024-10-02
  "bash 0030_install_database.sh" creates the "kds_discovery" database and loads the "load" schema with test model data. Follow that script with "bash 0034_stage_model_data.sh". It loads the "stage" and "model" schemas with data.
  ### Update 2024-10-17
- Follow "bash 0034_stage_model_data.sh"  with "bash 0038_client_interview_data.sh", this bash file runs three sql scripts for refreshing the model schema  and loading the client and interview shemas with "REAL-WORLD" like data. 
+ Follow "bash 0034_stage_model_data.sh"  with "bash 0038_client_interview_data.sh", this bash file runs three sql scripts for refreshing the model schema  and loading the client and interview schemas with "REAL-WORLD" like data. 
  
  
 
