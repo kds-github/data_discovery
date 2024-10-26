@@ -1,1 +1,133 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interview Form</title>
+    <style>
+        .question-container {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+        .question-container select, .question-container input, .question-container textarea {
+            margin-right: 10px;
+        }
+        .question-container button {
+            margin-right: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Interview Form</h1>
+    <form action="/" method="post">
+        <br>
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email" required><br>
+        
+        <label for="survey_date">Survey Date:</label><br>
+        <input type="date" id="survey_date" name="survey_date" required><br>
+        <br>
+
+        {% for question, gui_type, help_text, help_list in questions %}
+        <hr>
+        <div id="question_{{ loop.index }}">
+            <label for="response">{{ question }}</label><br>
+            <div class="question-container">
+                <!-- Dropdown with custom input -->
+                {% if gui_type == 'dropdown custom' %}
+                <!-- Drop-down list with a custom input option -->
+                <select name="response" id="select_{{ loop.index }}" onchange="toggleCustomInput('{{ loop.index }}')">
+                    <option value="" selected disabled>Select an option</option>
+                    {% for option in help_list %}
+                        <option value="{{ option }}">{{ option }}</option>
+                    {% endfor %}
+                    <option value="other">Other</option> <!-- "Other" option for custom input -->
+                </select>
+                
+                <!-- Hidden text input for custom value -->
+                <input type="text" id="custom_input_{{ loop.index }}" name="custom_response" style="display:none;" placeholder="Enter your custom value">
+                <button type="button" onclick="addAnother('question_{{ loop.index }}')">+</button>
+                <button type="button" onclick="deleteLast('question_{{ loop.index }}')">-</button>
+                <!-- Dropdown with multiple select -->
+                {% elif gui_type == 'dropdown with select' %}
+                    <select name="response" multiple>
+                        {% for option in help_list %}
+                            <option value="{{ option }}">{{ option }}</option>
+                        {% endfor %}
+                    </select>
+
+                <!-- Textarea -->
+                {% elif gui_type == 'textarea' %}
+                    <textarea name="response" rows="4" cols="50"></textarea>
+
+                <!-- Radio buttons with textarea -->
+                {% elif gui_type == 'radio_textarea' %}
+                    {% for option in help_list %}
+                        <input type="radio" name="response" value="{{ option }}"> {{ option }}<br>
+                    {% endfor %}
+                    <textarea name="custom_response" rows="2" cols="40" placeholder="Other..."></textarea>
+
+                <!-- Checkboxes -->
+                {% elif gui_type == 'checkbox' %}
+                    {% for option in help_list %}
+                        <input type="checkbox" name="response" value="{{ option }}"> {{ option }}<br>
+                    {% endfor %}
+
+                <!-- Number with textarea -->
+                {% elif gui_type == 'number with textarea' %}
+                    <input type="number" name="response" placeholder="Enter a number"><br>
+                    <textarea name="custom_response" rows="2" cols="40" placeholder="Additional details..."></textarea>
+
+                {% endif %}
+            </div>
+            <br>
+        </div>
+        {% endfor %}
+
+        <script>
+        function addAnother(questionId) {
+            var container = document.getElementById(questionId);
+            var input = document.createElement("select");
+            input.name = "response";
+            var options = container.querySelector('select').cloneNode(true).options;
+            for (var i = 0; i < options.length; i++) {
+                var option = document.createElement("option");
+                option.value = options[i].value;
+                option.text = options[i].text;
+                input.appendChild(option);
+            }
+            container.appendChild(input);
+            container.appendChild(document.createElement("br"));
+        }
+
+        function deleteLast(questionId) {
+            var container = document.getElementById(questionId);
+            var inputs = container.getElementsByTagName("select");
+            var brs = container.getElementsByTagName("br");
+
+            if (inputs.length > 1) { // Ensure at least one select remains
+                container.removeChild(inputs[inputs.length - 1]);
+                container.removeChild(brs[brs.length - 1]);
+            }
+        }
+        function toggleCustomInput(questionId) {
+            var selectBox = document.getElementById("select_" + questionId);
+            var customInput = document.getElementById("custom_input_" + questionId);
+    
+        // Show or hide the custom input field based on the selected option
+        if (selectBox.value === "other") {
+            customInput.style.display = "inline-block";
+        } else {
+            customInput.style.display = "none";
+        }   
+        }
+
+        </script>
+        
+        <button type="submit">Submit</button>
+    </form>
+
+</body>
+</html>
