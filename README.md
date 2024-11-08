@@ -94,5 +94,77 @@ To date ALL database development work has been done on PostgreSQL 14.13 on Linux
  ### Update 2024-11-07
  Next, run  "bash 0041_interview_answer_data.sh", this bash file runs two sql scripts that updates the interview and answer tables. It also creates a view and stored procedure.
   
- 
+### Installation Notes for Running interview_form.py
+ Here are a few steps to take to make sure the python script interview_form.py will run:
+#### In Windows
+From the command line,
+1. Create a Python Virtual Environment, from the command line,
+
+    `python -m venv interview_env`
+
+2. Activate the Virtual Environment
+
+    `interview_env\Scripts\activate`
+
+3. Install Required Modules
+
+	`pip install Flask psycopg2-binary python-dotenv`
+
+4. Create the .env File
+
+	In the same directory as interview_form.py, create a .env file and add the necessary environment variables.
+
+	Use the following format:
+
+	DBPASSWORD="password_goes_here"  
+	DBDATADIR="/home/data_discovery/data/"  
+	DBSURVEY="kds_discovery"   
+	DBPORT="5432"  
+	DBUSER="postgres"  
+	DBHOST="NNN.NNN.N.NNN"  
+	OPENAPIKEY="openAPI_key_goes_here"  
+
+5. Run the Application
+
+	`python interview_form.py`
+
+#### Linux Installation
+From the command line,
+1. Create a Python Virtual Environment
+
+    `python3 -m venv interview_env`
+
+2. Activate the Virtual Environment
+
+    `source interview_env/bin/activate`
+
+3. Install Required Modules
+
+    `pip install Flask psycopg2-binary python-dotenv`
+
+4. Create the .env File
+
+    In the same directory as interview_form.py, create a .env file by running:
+
+    `nano .env`
+
+    Use this format:
+
+    DBPASSWORD="password_goes_here"  
+    DBDATADIR="/home/data_discovery/data/"  
+    DBSURVEY="kds_discovery"  
+    DBPORT="5432"  
+    DBUSER="postgres"  
+    DBHOST="NNN.NNN.N.NNN"  
+    OPENAPIKEY="openAPI_key_goes_here"  
+
+    Add the environment variables in the file, then save and exit (Ctrl + X, Y, Enter).
+
+    Note: The .env file stores sensitive information like database credentials and API keys securely, accessed through python-dotenv.
+    Ensure interview_form.py can access .env to read environment variables.
+
+5. Run the Application
+
+    `python interview_form.py`
+
 
