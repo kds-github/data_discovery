@@ -116,15 +116,15 @@ From the command line,
 
 	Use the following format:
 
-	DBPASSWORD="password_goes_here"  
-	DBDATADIR="/home/data_discovery/data/"  
-	DBSURVEY="kds_discovery"   
-	DBPORT="5432"  
-	DBUSER="postgres"  
-	DBHOST="NNN.NNN.N.NNN"  
-	OPENAPIKEY="openAPI_key_goes_here"  
+	`DBPASSWORD="password_goes_here"`  
+	`DBDATADIR="/home/data_discovery/data/"`  
+    	`DBSURVEY="kds_discovery"`  
+    	`DBPORT="5432"`    
+    	`DBUSER="postgres"`  
+    	`DBHOST="NNN.NNN.N.NNN"`  
+    	`OPENAPIKEY="openAPI_key_goes_here"`
 
-5. Run the Application
+6. Run the Application
 
 	`python interview_form.py`
 
@@ -150,13 +150,13 @@ From the command line,
 
     Use this format:
 
-    DBPASSWORD="password_goes_here"  
-    DBDATADIR="/home/data_discovery/data/"  
-    DBSURVEY="kds_discovery"  
-    DBPORT="5432"  
-    DBUSER="postgres"  
-    DBHOST="NNN.NNN.N.NNN"  
-    OPENAPIKEY="openAPI_key_goes_here"  
+    `DBPASSWORD="password_goes_here"`  
+    `DBDATADIR="/home/data_discovery/data/"`  
+    `DBSURVEY="kds_discovery"`  
+    `DBPORT="5432"`    
+    `DBUSER="postgres"`  
+    `DBHOST="NNN.NNN.N.NNN"`  
+    `OPENAPIKEY="openAPI_key_goes_here"`  
 
     Add the environment variables in the file, then save and exit (Ctrl + X, Y, Enter).
 
