@@ -23,7 +23,7 @@ SELECT
   ('"' || syntax_ || '"')::jsonb, ('"' || help_ || '"')::jsonb, type_, sort_order, location_reference, create_date, modified_date, 'kds_discovery Hybrid LLM'
 FROM load.model_question;
 
-SELECT 'stage.model and stage.model_question inserted...' as 'status_';
+SELECT 'stage.model and stage.model_question inserted' as status_;
 
 ALTER TABLE stage.business_unit
 ALTER COLUMN model_reference TYPE UUID

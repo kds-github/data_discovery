@@ -1,0 +1,14 @@
+type_
+closed-ended
+open-ended
+multiple-choice
+likert scale
+ranking
+matrix
+dichotomous
+rating scale
+demographic
+contingency 
+binary
+quantitative
+descriptive
