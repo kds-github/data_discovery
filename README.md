@@ -88,8 +88,6 @@ The database design supports the chatbot-based application with various schemas 
 
 To date ALL database development work has been done on PostgreSQL 14.13 on Linux Mint 21.3 Cinnamon. For help with installing PostgreSQL, [see](https://postgresql.org). Once installed,run "bash 0030_install_database.sh" from the command line in a local github cloned directory.
 
-APP development has been done with Python 3.10.12, ,[see](https://python.org) .
-
 ### Update 2024-10-02
  "bash 0030_install_database.sh" creates the "kds_discovery" database and loads the "load" schema with test model data. Follow that script with "bash 0034_stage_model_data.sh". It loads the "stage" and "model" schemas with data.
  ### Update 2024-10-17
@@ -99,6 +97,7 @@ APP development has been done with Python 3.10.12, ,[see](https://python.org) .
   
 ### Installation Notes for Running `interview_form.py`
 To date, APP development has been done with Python 3.10.12, ,[see](https://python.org).
+
 Here are a few additional steps to take to make sure the python script `interview_form.py` will run:
 
 #### In Windows
@@ -170,6 +169,6 @@ From the command line,
 
 5. Run the Application
 
-    `python interview_form.py`
+    `python3 interview_form.py`
 
 
