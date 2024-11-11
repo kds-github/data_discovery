@@ -130,7 +130,11 @@ From the command line,
 
 6. Run the Application
 
-	`python interview_form.py`
+    `python interview_form.py`
+
+     Note: interview_form.py starts up the local (recommended) Flask server.  To display the form, open a browser and type:
+
+     `localhost:5000/`
 
 #### Linux Installation
 From the command line,
@@ -170,5 +174,9 @@ From the command line,
 5. Run the Application
 
     `python3 interview_form.py`
+
+    Note: interview_form.py starts up the local (recommended) Flask server.  To display the form, open a browser and type:
+
+    `localhost:5000/`
 
 
