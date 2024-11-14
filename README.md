@@ -112,6 +112,14 @@ from the command line in a local github cloned directory.
  `bash 0041_interview_answer_data.sh`
  
  , this bash file runs two sql scripts that updates the interview and answer tables. It also creates a view and stored procedure.
+ 
+ ### Update 2024-11-14
+
+ Run, the following
+ 
+ `bash 0043_stage_role_data.sh`
+
+ ,this bash file generates a new table and a stored procedure. 
   
 ### Installation Notes for Running `interview_form.py`
 To date, APP development has been done with Python 3.10.12, ,[see](https://python.org).
@@ -197,4 +205,14 @@ From the command line,
 
     `localhost:5000/`
 
+### Installation Notes for Running `get_location.py`
 
+Follow the interview_form.py instructions on how to create a virual environment.  Then run,
+
+`pip install requests`
+
+### Installation Notes for Running `openai_get_roll.py`
+
+Follow the interview_form.py instructions on how to create a virual environment.  Then run,
+
+`pip install openai`
