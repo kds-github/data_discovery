@@ -211,7 +211,7 @@ Follow the interview_form.py instructions on how to create a virual environment.
 
 `pip install requests`
 
-### Installation Notes for Running `openai_get_roll.py`
+### Installation Notes for Running `openai_get_role.py`
 
 Follow the interview_form.py instructions on how to create a virual environment.  Then run,
 
