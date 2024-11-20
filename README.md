@@ -1,4 +1,4 @@
-# Chatbot Data Discovery Interview App
+# kDS Data Discovery Interview App
 
 ## Introduction
 
@@ -6,7 +6,7 @@ In today's data-centric world, organizations are searching for ways to unlock th
 
 However, traditional methods are often cumbersome and inefficient, relying on manual surveys, disparate data collection, and time-consuming interviews. Many organizations still depend on spreadsheets for data discovery, leading to fragmented and error-prone management.
 
-To address these challenges, this project introduces a **Chatbot Data Discovery Interview App**, leveraging conversational AI to automate interviews, gather structured data, and reduce the time needed for data collection. The following sections will explore the workflow, database design, and key components of the application, using a wholesale distribution business as an example to illustrate the workflow and database schema.
+To address these challenges, this project introduces a **kDS Data Discovery Interview App**, leveraging conversational AI to automate interviews, gather structured data, and reduce the time needed for data collection. The following sections will explore the workflow, database design, and key components of the application, using a wholesale distribution business as an example to illustrate the workflow and database schema.
 
 ## Workflow Description
 
