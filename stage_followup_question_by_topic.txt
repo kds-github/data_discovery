@@ -1,0 +1,8 @@
+Table stage.followup_question_by_topic [headercolor: #EB801B] {
+  question_id uuid [pk, not null, default: `gen_random_uuid()`]
+  by_topic_id uuid [not null]
+  syntax_ jsonb [not null]
+  start_date timestamptz [not null]
+  create_date date [not null]
+  source_ varchar(96) [not null]
+}
