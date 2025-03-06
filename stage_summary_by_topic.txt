@@ -1,0 +1,9 @@
+Table stage.summary_by_topic [headercolor: #EB801B] {
+  by_topic_id uuid [pk, not null, default: `gen_random_uuid()` ]
+  control_id uuid [not null]
+  topic_  varchar(96) [not null]
+  summary_ jsonb [not null]
+  summary_date timestamptz 
+  create_date date [not null]
+  source_ varchar(96) [not null]
+}
