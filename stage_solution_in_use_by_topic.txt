@@ -1,0 +1,7 @@
+Table stage.solution_in_use_by_topic [headercolor: #EB801B] {
+  in_use_id uuid [pk, not null, default: `gen_random_uuid()`]
+  by_topic_id uuid
+  description_ jsonb
+  create_date date [not null]
+  source_ varchar(96) [not null]
+ }
