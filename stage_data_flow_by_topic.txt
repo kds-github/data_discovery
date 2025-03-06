@@ -1,0 +1,8 @@
+Table stage.data_flow_by_topic [headercolor: #EB801B] {
+  data_flow_id uuid [pk, not null, default: `gen_random_uuid()`]
+  by_topic_id uuid
+  noted_data_flow_source jsonb
+  noted_data_flow_destination jsonb
+  create_date date [not null]
+  source_ varchar(96) [not null] 
+  }
