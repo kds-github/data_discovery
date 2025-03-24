@@ -1,0 +1,25 @@
+Table "client"."interview" {
+  "interview_id" uuid [pk, not null, default: `gen_random_uuid()`]
+  "role_id" uuid [not null]
+  "request_date" date
+  "model_id" uuid [not null]
+  "cost" numeric(6,2)
+  "frequency_" "varchar(32)"  [not null]
+  "interview_admin" "varchar(96)"
+  "approval_date" date
+  "start_date" date
+  "end_date" date
+  "create_date" timestamptz [not null, default: `CURRENT_DATE`]
+  "modified_date" timestamptz
+  "created_by" "varchar(96)"
+  "modified_by" "varchar(96)"
+  "author_id" uuid
+  "source_" "varchar(96)" [not null]
+  "title_" "varchar(64)"
+  "project_id" uuid
+
+  Indexes {
+    role_id [type: btree, name: "fk_1_clientinterview"]
+    model_id [type: btree, name: "fk_2_clientint"]
+  }
+}
