@@ -3,11 +3,13 @@ import psycopg2
 import openai
 import json
 import re
+import argparse
 from dotenv import load_dotenv
 from datetime import datetime
+from jinja2 import Template
 
 # Load environment variables from .env file
-load_dotenv()  
+load_dotenv()
 openai.api_key = os.environ.get('OPENAPIKEY')
 
 # Function to validate UUID format
@@ -27,12 +29,34 @@ def connect_to_db():
     )
     return conn
 
-# Fetch data from the database
-def fetch_questions():
+# Fetch prompt template from the database
+def fetch_prompt_template():
     conn = connect_to_db()
     cur = conn.cursor()
     query = """
-        SELECT email_, 
+    SELECT prompt_text 
+    FROM admin.prompt_setting 
+    WHERE name_ = 'generate_sample_answer' 
+    ORDER BY create_date DESC 
+    LIMIT 1;
+    """
+    
+    cur.execute(query)
+    result = cur.fetchone()
+    cur.close()
+    conn.close()
+    
+    if not result:
+        raise ValueError("Prompt template 'generate_sample_answer' not found in the database.")
+    
+    return result[0]
+
+# Fetch data from the database
+def fetch_questions(email):
+    conn = connect_to_db()
+    cur = conn.cursor()
+    query = """
+     SELECT email_, 
                role_, 
                respondent_id, 
                industry_description, 
@@ -41,27 +65,26 @@ def fetch_questions():
                question_text,
                question_id 
         FROM temp.vw_lookup_for_answer_test 
+        WHERE email_ = %s
         ORDER BY sort_order LIMIT 20;
     """
-    cur.execute(query)
+    
+    cur.execute(query, (email,))
     questions = cur.fetchall()
+    cur.close()
     conn.close()
     return questions
 
-# Generate a prompt for GPT-4
-def generate_sample_answer_prompt(industry_description, role_, question_text, question_id):
-    prompt = (
-        f"Based on the following industry_description and role, please generate a sample answer to the question. Reference what tool is in use when known.\n\n"
-        f"role_: {role_}\n"
-        f"industry_description: {industry_description}\n"
-        f"question_text: {question_text}\n\n"
-        f"Respond in JSON format as follows:\n"
-        f"{{\n"
-        f"  \"question_id\": \"{question_id}\",\n"
-        f"  \"sample_answer\": \"<generated_answer>\"\n"
-        f"}}"
+# Generate a prompt for GPT-4 using Jinja2 template
+def generate_sample_answer_prompt(template_text, industry_description, role_, question_text, question_id):
+    template = Template(template_text)
+    rendered_prompt = template.render(
+        role_=role_,
+        industry_description=industry_description,
+        question_text=question_text,
+        question_id=question_id
     )
-    return prompt
+    return rendered_prompt
 
 # Interact with GPT-4 and get a sample answer
 def get_gpt4_response(prompt):
@@ -98,11 +121,29 @@ def insert_answer(cur, question_id, respondent_id, answer, answer_date, source):
     """, (question_id, respondent_id, answer, answer_date, source))
 
 def main():
+    # Set up argument parser
+    parser = argparse.ArgumentParser(description='Generate test answers for survey questions.')
+    parser.add_argument('--email', '-e', required=True, help='Email address to filter questions')
+    args = parser.parse_args()
+    
+    email = args.email
+    
     # Start timing
     start_time = datetime.now()
     print(f"Process started at: {start_time}")
+    print(f"Generating answers for email: {email}")
     
-    questions = fetch_questions()
+    # Fetch the prompt template from the database
+    prompt_template = fetch_prompt_template()
+    print("Prompt template fetched from database.")
+    
+    questions = fetch_questions(email)
+    if not questions:
+        print(f"No questions found for email: {email}")
+        return
+        
+    print(f"Found {len(questions)} questions to process.")
+    
     conn = connect_to_db()
     cur = conn.cursor()
 
@@ -114,8 +155,14 @@ def main():
         email_, role_, respondent_id, industry_description, subsidiary_, business_unit, question_text, original_question_id = question
 
         # Use the original question_id from database for safer operation
-        prompt = generate_sample_answer_prompt(industry_description, role_, question_text, original_question_id)
-        print(f"Prompt for question_id {original_question_id}:\n{prompt}\n")  # Displaying prompt for debug
+        prompt = generate_sample_answer_prompt(
+            prompt_template,
+            industry_description, 
+            role_, 
+            question_text, 
+            original_question_id
+        )
+        print(f"Processing question_id {original_question_id}...")
 
         response_text = get_gpt4_response(prompt)
         gpt_question_id, sample_answer = parse_gpt_response(response_text)
@@ -130,7 +177,7 @@ def main():
             source = "GPT-4"  # or any other source identifier
             try:
                 insert_answer(cur, original_question_id, respondent_id, json.dumps(sample_answer), answer_date, source)
-                print(f"Inserted answer for question_id {original_question_id} with response: {sample_answer}\n")
+                print(f"Inserted answer for question_id {original_question_id}")
                 row_count += 1  # Increment row counter
             except psycopg2.Error as e:
                 print(f"Database error when inserting answer: {e}")
