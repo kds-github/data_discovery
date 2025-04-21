@@ -1,0 +1,21 @@
+gui_
+single line text input 
+multi-line textarea 
+radio buttons
+checkboxes
+single select dropdown list 
+multiple select dropdown list 
+number input
+range slider
+date picker
+time picker
+file upload
+button group
+rating control 
+toggle switch
+color picker
+password input
+hidden input
+search input
+email input
+radio group with textarea
