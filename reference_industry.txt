@@ -1,0 +1,1013 @@
+industry_hash_id	code_source	code_	description_	version_	start_date	end_date	created_by	create_date	modified_by	modified_date
+84161c4c7fa11fd8f49cc36a4b322da2	NASIC	813211	Grantmaking Foundations 	current	2024-12-19		kds_adm	2024-12-19		
+d3bedc75c18acbba7fc1ae8541081b86	NASIC	928120	International Affairs 	current	2024-12-19		kds_adm	2024-12-19		
+6e76f605fb976254f9bcc125ef3b2d50	NASIC	928110	National Security 	current	2024-12-19		kds_adm	2024-12-19		
+653cdf9da96ac75383a2e89683f942fb	NASIC	927110	Space Research and Technology 	current	2024-12-19		kds_adm	2024-12-19		
+9a6a9e9d5830443f5cfec1c170c163e9	NASIC	926150	Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors 	current	2024-12-19		kds_adm	2024-12-19		
+cfcb720942ecf6cd46355be8e033c932	NASIC	926140	Regulation of Agricultural Marketing and Commodities 	current	2024-12-19		kds_adm	2024-12-19		
+c5f4f44e2b9d8a4996fa2667ccca5b0b	NASIC	926130	Regulation and Administration of Communications, Electric, Gas, and Other Utilities 	current	2024-12-19		kds_adm	2024-12-19		
+c7721d657ffaa65cc86330082605cbc4	NASIC	926120	Regulation and Administration of Transportation Programs 	current	2024-12-19		kds_adm	2024-12-19		
+2577c9b53fdba49850eb76f470888d47	NASIC	926110	Administration of General Economic Programs 	current	2024-12-19		kds_adm	2024-12-19		
+0827c7360538fbd350d723b4bf0e13f9	NASIC	925120	Administration of Urban Planning and Community and Rural Development 	current	2024-12-19		kds_adm	2024-12-19		
+d768858196976c5e40a11a69d3fe38b9	NASIC	925110	Administration of Housing Programs 	current	2024-12-19		kds_adm	2024-12-19		
+7448e58745c9a93529888a32f55514b7	NASIC	924120	Administration of Conservation Programs 	current	2024-12-19		kds_adm	2024-12-19		
+09d3479240e3f9c0d12a238cf5eb7caa	NASIC	924110	Administration of Air and Water Resource and Solid Waste Management Programs 	current	2024-12-19		kds_adm	2024-12-19		
+6906b6593c705b00c03b5f2088981ee5	NASIC	923140	Administration of Veterans' Affairs 	current	2024-12-19		kds_adm	2024-12-19		
+09c55826b14369a46d8735c3a37acf76	NASIC	923130	Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs) 	current	2024-12-19		kds_adm	2024-12-19		
+6361d1ec692ba3bb115d57a3165527d4	NASIC	923120	Administration of Public Health Programs 	current	2024-12-19		kds_adm	2024-12-19		
+e726d7e89e26466b4ef06aaef68a5960	NASIC	923110	Administration of Education Programs 	current	2024-12-19		kds_adm	2024-12-19		
+bd5a80f0bae4362d252291c1c00e1aab	NASIC	922190	Other Justice, Public Order, and Safety Activities 	current	2024-12-19		kds_adm	2024-12-19		
+da40a5a5f38591bc822bd7bbca502e72	NASIC	922160	Fire Protection 	current	2024-12-19		kds_adm	2024-12-19		
+0edb11dfa3706679a7c0011f46d09148	NASIC	922150	Parole Offices and Probation Offices 	current	2024-12-19		kds_adm	2024-12-19		
+bba4be1082b914d1e302bdb4fa838ef8	NASIC	922140	Correctional Institutions 	current	2024-12-19		kds_adm	2024-12-19		
+adbb23b7fcdd48c671cdfb90bc2ccb15	NASIC	922130	Legal Counsel and Prosecution 	current	2024-12-19		kds_adm	2024-12-19		
+c698cbd37c804c41039b1a2c6760712d	NASIC	922120	Police Protection 	current	2024-12-19		kds_adm	2024-12-19		
+6624bf7d29c81e1b0f452062a494503c	NASIC	922110	Courts 	current	2024-12-19		kds_adm	2024-12-19		
+90be1aca0fe8c00f89c94f3b7d5a2385	NASIC	921190	Other General Government Support 	current	2024-12-19		kds_adm	2024-12-19		
+d45640722d2bd2496d6e21dca8ff0b33	NASIC	921150	American Indian and Alaska Native Tribal Governments 	current	2024-12-19		kds_adm	2024-12-19		
+d2f91ed954065de9950a32e525ce54b4	NASIC	921140	Executive and Legislative Offices, Combined 	current	2024-12-19		kds_adm	2024-12-19		
+8a56a61c9e55f72579029c748a21ea0e	NASIC	921130	Public Finance Activities 	current	2024-12-19		kds_adm	2024-12-19		
+8e67886684a34ded8298fe4e4884625b	NASIC	921120	Legislative Bodies 	current	2024-12-19		kds_adm	2024-12-19		
+f35a54ca9e5214c5d2ffc973dc1ba58d	NASIC	921110	Executive Offices 	current	2024-12-19		kds_adm	2024-12-19		
+4fc10d368a167cae941edb34a55340ed	NASIC	814110	Private Households	current	2024-12-19		kds_adm	2024-12-19		
+3cf55793b05538a69b194b96da4f385d	NASIC	813990	Other Similar Organizations (except Business, Professional, Labor, and Political Organizations) 	current	2024-12-19		kds_adm	2024-12-19		
+89548c0779c4d93ff9483fdbfb99f253	NASIC	813940	Political Organizations 	current	2024-12-19		kds_adm	2024-12-19		
+9954da5a0151051641a04aa54c0c7a4f	NASIC	813930	Labor Unions and Similar Labor Organizations 	current	2024-12-19		kds_adm	2024-12-19		
+fafc623469a0442f473e8868e40b3126	NASIC	813920	Professional Organizations 	current	2024-12-19		kds_adm	2024-12-19		
+d99f4b757148d0dee8b9412e550671b3	NASIC	813910	Business Associations 	current	2024-12-19		kds_adm	2024-12-19		
+d9e02f61161442a20de966ff3e7e055a	NASIC	813410	Civic and Social Organizations 	current	2024-12-19		kds_adm	2024-12-19		
+cc1465e948e0329989c3de4df46d1157	NASIC	813319	Other Social Advocacy Organizations 	current	2024-12-19		kds_adm	2024-12-19		
+7599072d70b98f9068c6f4e6cf0577d2	NASIC	813312	Environment, Conservation and Wildlife Organizations 	current	2024-12-19		kds_adm	2024-12-19		
+ea315a8dca9324b3da6168455b06d0c5	NASIC	813311	Human Rights Organizations 	current	2024-12-19		kds_adm	2024-12-19		
+43b40be3a61aaaa9a5b144eba878f8da	NASIC	813219	Other Grantmaking and Giving Services 	current	2024-12-19		kds_adm	2024-12-19		
+e59aa0ec4a88286161d31fd02a1c3d95	NASIC	813212	Voluntary Health Organizations 	current	2024-12-19		kds_adm	2024-12-19		
+dc1a6fe0fd9b8666723b200a59e107a7	NASIC	813110	Religious Organizations 	current	2024-12-19		kds_adm	2024-12-19		
+4f1985b78ba99c87ac4d7c05cfb3f668	NASIC	812990	All Other Personal Services 	current	2024-12-19		kds_adm	2024-12-19		
+a2d37d3951ff73a1afcd6e39d61413b9	NASIC	812930	Parking Lots and Garages 	current	2024-12-19		kds_adm	2024-12-19		
+4fee3bd6e13814037f0e970636e3625b	NASIC	812922	One-Hour Photofinishing 	current	2024-12-19		kds_adm	2024-12-19		
+2406f0909685a75d8f8dd2ae9b73a550	NASIC	812921	Photofinishing Laboratories (except One-Hour) 	current	2024-12-19		kds_adm	2024-12-19		
+c1b623bc53cc624319422ccb7f53f4e8	NASIC	812910	Pet Care (except Veterinary) Services 	current	2024-12-19		kds_adm	2024-12-19		
+bc2dc5fbb5e59f763debd15bcdecbec0	NASIC	812332	Industrial Launderers 	current	2024-12-19		kds_adm	2024-12-19		
+66e27a9998e00eb188569b8cc85a5c2f	NASIC	812331	Linen Supply 	current	2024-12-19		kds_adm	2024-12-19		
+b2d8e6a55d5da1d0681012850c0dd56e	NASIC	812320	Drycleaning and Laundry Services (except Coin-Operated) 	current	2024-12-19		kds_adm	2024-12-19		
+a2b62cf2f0c3f0b4dafe63804eb81de8	NASIC	812310	Coin-Operated Laundries and Drycleaners 	current	2024-12-19		kds_adm	2024-12-19		
+344560e51c7c5731f697bf00090cea28	NASIC	812220	Cemeteries and Crematories 	current	2024-12-19		kds_adm	2024-12-19		
+fca19e8b5eca8b2ce5d14035e3c713bd	NASIC	812210	Funeral Homes and Funeral Services 	current	2024-12-19		kds_adm	2024-12-19		
+1bfe01fba8640029f755b4e660ceb303	NASIC	449121	Floor Covering Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+811330d15bfade722f5717d991d5f196	NASIC	812199	Other Personal Care Services 	current	2024-12-19		kds_adm	2024-12-19		
+807402305815c5ccd02488b1e780dbbe	NASIC	812191	Diet and Weight Reducing Centers 	current	2024-12-19		kds_adm	2024-12-19		
+cff25c1908eb9edecd99ce7c0ee5846f	NASIC	812113	Nail Salons 	current	2024-12-19		kds_adm	2024-12-19		
+cb498db49a37195a76ed3915465322c2	NASIC	812112	Beauty Salons 	current	2024-12-19		kds_adm	2024-12-19		
+2a083dfd4991f082dd376386a3e82b24	NASIC	812111	Barber Shops 	current	2024-12-19		kds_adm	2024-12-19		
+7868f67e5ce82a6eec4b91c7648fe1ed	NASIC	811490	Other Personal and Household Goods Repair and Maintenance 	current	2024-12-19		kds_adm	2024-12-19		
+8024e71fb9497e67cbc0ac5f4a079dab	NASIC	811430	Footwear and Leather Goods Repair	current	2024-12-19		kds_adm	2024-12-19		
+57c3273c9e9d66048c719f7e4bd90d4a	NASIC	811420	Reupholstery and Furniture Repair	current	2024-12-19		kds_adm	2024-12-19		
+727faaba05eed692944acfece62f5186	NASIC	811412	Appliance Repair and Maintenance 	current	2024-12-19		kds_adm	2024-12-19		
+a72da6b586bcbd6802692274401c0139	NASIC	811411	Home and Garden Equipment Repair and Maintenance 	current	2024-12-19		kds_adm	2024-12-19		
+b5af101a515498ec28620cd386ff560c	NASIC	811310	Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance 	current	2024-12-19		kds_adm	2024-12-19		
+8574ec731a9e7a19328af5f6e40a32eb	NASIC	811210	Electronic and Precision Equipment Repair and Maintenance 	current	2024-12-19		kds_adm	2024-12-19		
+d01a148e6383e32db4e06c9877f58886	NASIC	811198	All Other Automotive Repair and Maintenance 	current	2024-12-19		kds_adm	2024-12-19		
+389b010de6b5bd74b45c76b4050aff65	NASIC	811192	Car Washes 	current	2024-12-19		kds_adm	2024-12-19		
+3c6ee31a6d16ad601b1262291973e80a	NASIC	811191	Automotive Oil Change and Lubrication Shops 	current	2024-12-19		kds_adm	2024-12-19		
+c27a8d0c96ee693c35845db41a681ddb	NASIC	811122	Automotive Glass Replacement Shops 	current	2024-12-19		kds_adm	2024-12-19		
+d894bb3c21cdfdf5a5a49567e1ef04cc	NASIC	811121	Automotive Body, Paint, and Interior Repair and Maintenance 	current	2024-12-19		kds_adm	2024-12-19		
+75cb27108d8e15e03aa6c78f30d6585f	NASIC	811114	Specialized Automotive Repair 	current	2024-12-19		kds_adm	2024-12-19		
+212d87b1f638b2ce58f6b8f84c907f98	NASIC	811111	General Automotive Repair 	current	2024-12-19		kds_adm	2024-12-19		
+25b917a40e54b4c41a7ff556db2f1a78	NASIC	722515	Snack and Nonalcoholic Beverage Bars 	current	2024-12-19		kds_adm	2024-12-19		
+2088c3fbfdc2adb051bc9b10bf024ef9	NASIC	722514	Cafeterias, Grill Buffets, and Buffets 	current	2024-12-19		kds_adm	2024-12-19		
+d6c6ab355655e72116dd53729945f40d	NASIC	722513	Limited-Service Restaurants 	current	2024-12-19		kds_adm	2024-12-19		
+bf154e2c9adcc78cac18afb910ac446b	NASIC	722511	Full-Service Restaurants 	current	2024-12-19		kds_adm	2024-12-19		
+a9c512f88b5b274de7cd926fc98920e1	NASIC	722410	Drinking Places (Alcoholic Beverages) 	current	2024-12-19		kds_adm	2024-12-19		
+517ad5fcc9a955abe857d94294afc38b	NASIC	722330	Mobile Food Services	current	2024-12-19		kds_adm	2024-12-19		
+2580aab07df2c74700ad39cb9f979a8c	NASIC	722320	Caterers	current	2024-12-19		kds_adm	2024-12-19		
+1ecefe9ea74b2c6995639a30973f20eb	NASIC	722310	Food Service Contractors	current	2024-12-19		kds_adm	2024-12-19		
+28666ae95ba0643714cda146f9e4adb4	NASIC	721310	Rooming and Boarding Houses, Dormitories, and Workers' Camps 	current	2024-12-19		kds_adm	2024-12-19		
+9e890321fc8fe218bd46e0280905a376	NASIC	721214	Recreational and Vacation Camps (except Campgrounds) 	current	2024-12-19		kds_adm	2024-12-19		
+516d5e9fcde7d526481949360cbeeddf	NASIC	721211	RV (Recreational Vehicle) Parks and Campgrounds 	current	2024-12-19		kds_adm	2024-12-19		
+e8e8e9937abc2296ad19bb3395087de4	NASIC	721199	All Other Traveler Accommodation 	current	2024-12-19		kds_adm	2024-12-19		
+26b35b7863a321e151bee11b1dc22122	NASIC	721191	Bed-and-Breakfast Inns 	current	2024-12-19		kds_adm	2024-12-19		
+2225b7c12749ef029e513263ad518db7	NASIC	721120	Casino Hotels	current	2024-12-19		kds_adm	2024-12-19		
+c7356b48c4d2e002940193af119969ac	NASIC	721110	Hotels (except Casino Hotels) and Motels 	current	2024-12-19		kds_adm	2024-12-19		
+11f22dc45f165fd2580ac7104d537f8b	NASIC	713990	All Other Amusement and Recreation Industries 	current	2024-12-19		kds_adm	2024-12-19		
+69ff3a709646b75175095ec9de184e97	NASIC	713950	Bowling Centers	current	2024-12-19		kds_adm	2024-12-19		
+158aa26b58363949df66eb6cdd96db4a	NASIC	713940	Fitness and Recreational Sports Centers 	current	2024-12-19		kds_adm	2024-12-19		
+823fd505460d33d23628e846cd2fda92	NASIC	713930	Marinas	current	2024-12-19		kds_adm	2024-12-19		
+88c3979979f573d176aa3af2f18c2fc6	NASIC	713920	Skiing Facilities	current	2024-12-19		kds_adm	2024-12-19		
+f8daff5bf7a952992e9d79c47c7d0663	NASIC	713910	Golf Courses and Country Clubs	current	2024-12-19		kds_adm	2024-12-19		
+765b5abadaff1e92c9a80b173887d763	NASIC	713290	Other Gambling Industries 	current	2024-12-19		kds_adm	2024-12-19		
+dbaf951917a8f9cf2eeedf2475aea35c	NASIC	713210	Casinos (except Casino Hotels)	current	2024-12-19		kds_adm	2024-12-19		
+694cce943ae0af642faba3378b71e65a	NASIC	713120	Amusement Arcades	current	2024-12-19		kds_adm	2024-12-19		
+fa61336dee343decfa561752e1487891	NASIC	713110	Amusement and Theme Parks 	current	2024-12-19		kds_adm	2024-12-19		
+67522b263829e0fba21f32a6c6fb29f8	NASIC	712190	Nature Parks and Other Similar Institutions	current	2024-12-19		kds_adm	2024-12-19		
+ea674fad1b91713ccecedd5cc1a12022	NASIC	712130	Zoos and Botanical Gardens 	current	2024-12-19		kds_adm	2024-12-19		
+9769b5ac9a03198282cefb26ab968643	NASIC	712120	Historical Sites	current	2024-12-19		kds_adm	2024-12-19		
+5fdef4d750967ca7b50fcaee54baa10b	NASIC	712110	Museums 	current	2024-12-19		kds_adm	2024-12-19		
+ddc4b621643582df7a88164f73ff62f0	NASIC	711510	Independent Artists, Writers, and Performers 	current	2024-12-19		kds_adm	2024-12-19		
+b4860887feb307530ad2219be1e7dbb1	NASIC	711410	Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures	current	2024-12-19		kds_adm	2024-12-19		
+40fca60cc5ee054ca048b0088a136d2c	NASIC	711320	Promoters of Performing Arts, Sports, and Similar Events without Facilities 	current	2024-12-19		kds_adm	2024-12-19		
+2648198c434e19d5833b4ce50fe0b3bb	NASIC	711310	Promoters of Performing Arts, Sports, and Similar Events with Facilities 	current	2024-12-19		kds_adm	2024-12-19		
+814a0baad72f0571551aff6ce52e881f	NASIC	711219	Other Spectator Sports 	current	2024-12-19		kds_adm	2024-12-19		
+8fac21235cca21b68f1f9ba9fb759ecd	NASIC	711212	Racetracks 	current	2024-12-19		kds_adm	2024-12-19		
+3bbc2a4f8d74587313c281f19083ec52	NASIC	711211	Sports Teams and Clubs 	current	2024-12-19		kds_adm	2024-12-19		
+654fb1ed0f3692568ee0a7823f466ab8	NASIC	711190	Other Performing Arts Companies 	current	2024-12-19		kds_adm	2024-12-19		
+741be60a59f00c5e665188105cc0a9d6	NASIC	711130	Musical Groups and Artists 	current	2024-12-19		kds_adm	2024-12-19		
+f1d9a3f00ad90579253f945cf5123d1b	NASIC	711120	Dance Companies 	current	2024-12-19		kds_adm	2024-12-19		
+bc0987a030ece41a30ce769adc3f5975	NASIC	711110	Theater Companies and Dinner Theaters 	current	2024-12-19		kds_adm	2024-12-19		
+686231fe2e014d04a53ceae20d9bbd91	NASIC	624410	Child Care Services 	current	2024-12-19		kds_adm	2024-12-19		
+802b6cb420692c716928b7bd938ed5e7	NASIC	624310	Vocational Rehabilitation Services 	current	2024-12-19		kds_adm	2024-12-19		
+5d59299a7371e80f404b7d280c8a1e7b	NASIC	624230	Emergency and Other Relief Services 	current	2024-12-19		kds_adm	2024-12-19		
+bc437db71813094c852df8ba2e50dc6b	NASIC	624229	Other Community Housing Services 	current	2024-12-19		kds_adm	2024-12-19		
+90eef1b0e0b9b6bedb923be2c283c04c	NASIC	624221	Temporary Shelters 	current	2024-12-19		kds_adm	2024-12-19		
+6a95672b8a21d5c923ae883e9c167afa	NASIC	624210	Community Food Services 	current	2024-12-19		kds_adm	2024-12-19		
+b3089cc3148019f794dd5f3ec8f786fd	NASIC	624190	Other Individual and Family Services 	current	2024-12-19		kds_adm	2024-12-19		
+7c4cd058a62e8a5cd9ea40b303972905	NASIC	624120	Services for the Elderly and Persons with Disabilities 	current	2024-12-19		kds_adm	2024-12-19		
+65d4640a1d95416c9bafffbe46eee8aa	NASIC	624110	Child and Youth Services 	current	2024-12-19		kds_adm	2024-12-19		
+22c35148396331c43a5324493c24598f	NASIC	623990	Other Residential Care Facilities 	current	2024-12-19		kds_adm	2024-12-19		
+8610c86a29b9a44aa8f69e210ce38d6b	NASIC	623312	Assisted Living Facilities for the Elderly 	current	2024-12-19		kds_adm	2024-12-19		
+a06df3b5989dfcfa6cac77d0640572e7	NASIC	623311	Continuing Care Retirement Communities 	current	2024-12-19		kds_adm	2024-12-19		
+377fbb61a7bbb83ee4bb937e162db2a8	NASIC	623220	Residential Mental Health and Substance Abuse Facilities 	current	2024-12-19		kds_adm	2024-12-19		
+d31b389478c381fd164e559120f5a607	NASIC	623210	Residential Intellectual and Developmental Disability Facilities 	current	2024-12-19		kds_adm	2024-12-19		
+82e5b000503fd9b09f4b9aeaf2996b58	NASIC	623110	Nursing Care Facilities (Skilled Nursing Facilities) 	current	2024-12-19		kds_adm	2024-12-19		
+b9abac085be0d1615a1a4163d44462a0	NASIC	622310	Specialty (except Psychiatric and Substance Abuse) Hospitals 	current	2024-12-19		kds_adm	2024-12-19		
+5f38318eaa7334797939242184bb8c63	NASIC	622210	Psychiatric and Substance Abuse Hospitals 	current	2024-12-19		kds_adm	2024-12-19		
+0a822bb21731323cf586ea5603c97f95	NASIC	622110	General Medical and Surgical Hospitals 	current	2024-12-19		kds_adm	2024-12-19		
+ea9435d2607af9b1577ca7e088e7f5b9	NASIC	621999	All Other Miscellaneous Ambulatory Health Care Services 	current	2024-12-19		kds_adm	2024-12-19		
+1396bec34419216ab5510250c441868e	NASIC	621991	Blood and Organ Banks 	current	2024-12-19		kds_adm	2024-12-19		
+f18580d6007d43e3ecb6aa4c4777cf6c	NASIC	621910	Ambulance Services 	current	2024-12-19		kds_adm	2024-12-19		
+f70432fed3c84edf89cc954c8561cf6c	NASIC	621610	Home Health Care Services	current	2024-12-19		kds_adm	2024-12-19		
+0ad57a9ddcc377f66e807c6e8ccafc59	NASIC	621512	Diagnostic Imaging Centers 	current	2024-12-19		kds_adm	2024-12-19		
+cb2f6605a8f3bc73f4046ef3a41cdcfe	NASIC	621511	Medical Laboratories 	current	2024-12-19		kds_adm	2024-12-19		
+847f6b0355b469637d5e2caa259c6e1f	NASIC	621498	All Other Outpatient Care Centers 	current	2024-12-19		kds_adm	2024-12-19		
+3d70d3993e01a83d3bcfd10d958ccc9a	NASIC	621493	Freestanding Ambulatory Surgical and Emergency Centers 	current	2024-12-19		kds_adm	2024-12-19		
+b95ecf3a00bfeb34bcd09c5ce8b8722a	NASIC	621492	Kidney Dialysis Centers 	current	2024-12-19		kds_adm	2024-12-19		
+045dc7a03c0db1360d01f62e1b399707	NASIC	621491	HMO Medical Centers 	current	2024-12-19		kds_adm	2024-12-19		
+0c9f641380040f9ff4c9cf6de9a30836	NASIC	621420	Outpatient Mental Health and Substance Abuse Centers 	current	2024-12-19		kds_adm	2024-12-19		
+823e2566d785dd6139b58dacdd0e76dc	NASIC	621410	Family Planning Centers 	current	2024-12-19		kds_adm	2024-12-19		
+76bba144cb2ae60a279faafc5ab84825	NASIC	621399	Offices of All Other Miscellaneous Health Practitioners 	current	2024-12-19		kds_adm	2024-12-19		
+b822507d2941e1e83632742589565485	NASIC	621391	Offices of Podiatrists 	current	2024-12-19		kds_adm	2024-12-19		
+0b00b747be4cfb54738ea4836ae8c09f	NASIC	621340	Offices of Physical, Occupational and Speech Therapists, and Audiologists 	current	2024-12-19		kds_adm	2024-12-19		
+8fcf2e1bf7f2c0b33809564c08a85a47	NASIC	621330	Offices of Mental Health Practitioners (except Physicians) 	current	2024-12-19		kds_adm	2024-12-19		
+b9c5753075f2900a5386cf320dbdb94e	NASIC	621320	Offices of Optometrists	current	2024-12-19		kds_adm	2024-12-19		
+e34c2053355e141958b6a636b6bf415d	NASIC	621310	Offices of Chiropractors 	current	2024-12-19		kds_adm	2024-12-19		
+9b3edc2137696e28aa8ba0c07e949510	NASIC	621210	Offices of Dentists 	current	2024-12-19		kds_adm	2024-12-19		
+3b9471a0defb654c6ea634261023636f	NASIC	621112	Offices of Physicians, Mental Health Specialists 	current	2024-12-19		kds_adm	2024-12-19		
+a0d1ba6ca1d53957cab0c6c91b16368f	NASIC	621111	Offices of Physicians (except Mental Health Specialists) 	current	2024-12-19		kds_adm	2024-12-19		
+6a7c06289b8b46db7318a3dff189ad9d	NASIC	611710	Educational Support Services	current	2024-12-19		kds_adm	2024-12-19		
+f5f11655015140f3b43c550658b563ee	NASIC	611699	All Other Miscellaneous Schools and Instruction 	current	2024-12-19		kds_adm	2024-12-19		
+facf338e2e0132f9efacc4486da1c7c4	NASIC	611692	Automobile Driving Schools 	current	2024-12-19		kds_adm	2024-12-19		
+dc29824ef3476360e5ed9312079992fc	NASIC	611691	Exam Preparation and Tutoring 	current	2024-12-19		kds_adm	2024-12-19		
+ea884b5ed53695b5c91cdb1164a19885	NASIC	611630	Language Schools 	current	2024-12-19		kds_adm	2024-12-19		
+e1cdf10348914cddd207cdf632c4b845	NASIC	611620	Sports and Recreation Instruction 	current	2024-12-19		kds_adm	2024-12-19		
+20bda4a1bf313cc8f03e6539e0a61735	NASIC	611610	Fine Arts Schools 	current	2024-12-19		kds_adm	2024-12-19		
+c8b4fa2fc02faff6507f958171c0eb6b	NASIC	611519	Other Technical and Trade Schools 	current	2024-12-19		kds_adm	2024-12-19		
+3917716a952f870ad6942d6ff8f563e3	NASIC	611513	Apprenticeship Training 	current	2024-12-19		kds_adm	2024-12-19		
+0f56ae53f40ff0c9a918d5e516e53853	NASIC	611512	Flight Training 	current	2024-12-19		kds_adm	2024-12-19		
+15d5605b4fefb2c7b7d8e4f4d7ae8719	NASIC	611511	Cosmetology and Barber Schools 	current	2024-12-19		kds_adm	2024-12-19		
+21d1c219f4928241b1556be40b90f944	NASIC	611430	Professional and Management Development Training 	current	2024-12-19		kds_adm	2024-12-19		
+846342f5385f88c2cb6845f6e90ba2fc	NASIC	611420	Computer Training 	current	2024-12-19		kds_adm	2024-12-19		
+ef6346f43bd16961333818641b02b718	NASIC	611410	Business and Secretarial Schools 	current	2024-12-19		kds_adm	2024-12-19		
+b1dd9fab03691beb70fc50bf0a7267b8	NASIC	611310	Colleges, Universities, and Professional Schools 	current	2024-12-19		kds_adm	2024-12-19		
+8cece1b374a34a5c2cd88f5304f53526	NASIC	611210	Junior Colleges 	current	2024-12-19		kds_adm	2024-12-19		
+181c4e9a9c170b87a31ff4f992c721e5	NASIC	611110	Elementary and Secondary Schools 	current	2024-12-19		kds_adm	2024-12-19		
+c3b800d97b746e198f6aae1c68f378a1	NASIC	562998	All Other Miscellaneous Waste Management Services 	current	2024-12-19		kds_adm	2024-12-19		
+fe8b0cf45ca7c126f2404cc94befcbe8	NASIC	562991	Septic Tank and Related Services 	current	2024-12-19		kds_adm	2024-12-19		
+057a1e6d77a8baa442d532459e0898dc	NASIC	562920	Materials Recovery Facilities 	current	2024-12-19		kds_adm	2024-12-19		
+f9266f976ece765692335a90259e98d1	NASIC	562910	Remediation Services 	current	2024-12-19		kds_adm	2024-12-19		
+623f771c13b6bdde600c5c14bb6aa87e	NASIC	562219	Other Nonhazardous Waste Treatment and Disposal 	current	2024-12-19		kds_adm	2024-12-19		
+476019bcb649ab0b6c7453b382c9c52b	NASIC	562213	Solid Waste Combustors and Incinerators 	current	2024-12-19		kds_adm	2024-12-19		
+4c345cbd682596e160df587cbb540da5	NASIC	562212	Solid Waste Landfill 	current	2024-12-19		kds_adm	2024-12-19		
+b211535c9be68d513101e5a8626949ee	NASIC	562211	Hazardous Waste Treatment and Disposal 	current	2024-12-19		kds_adm	2024-12-19		
+6611355761f38c4159697e807526b05f	NASIC	562119	Other Waste Collection 	current	2024-12-19		kds_adm	2024-12-19		
+6920a157d605ee6edd7a0ad851b6bacb	NASIC	562112	Hazardous Waste Collection 	current	2024-12-19		kds_adm	2024-12-19		
+d780a2c902278d8bfb5ad5126eaf127f	NASIC	562111	Solid Waste Collection 	current	2024-12-19		kds_adm	2024-12-19		
+36597dfb1b773b4ecb9f7f826799871b	NASIC	561990	All Other Support Services	current	2024-12-19		kds_adm	2024-12-19		
+634df392d51d25657851a70fe9c976ac	NASIC	561920	Convention and Trade Show Organizers	current	2024-12-19		kds_adm	2024-12-19		
+b9edb493497534ccb7af207756cdb8a6	NASIC	561910	Packaging and Labeling Services	current	2024-12-19		kds_adm	2024-12-19		
+cb85c5c364e594164f7e40da95dab867	NASIC	561790	Other Services to Buildings and Dwellings 	current	2024-12-19		kds_adm	2024-12-19		
+14dc78c6cb6637d8135ec38d932c0cfc	NASIC	561740	Carpet and Upholstery Cleaning Services	current	2024-12-19		kds_adm	2024-12-19		
+41557de8adac753be4c6443f743d3151	NASIC	561730	Landscaping Services	current	2024-12-19		kds_adm	2024-12-19		
+d932cc32c23e78a65610855c7b90046f	NASIC	561720	Janitorial Services 	current	2024-12-19		kds_adm	2024-12-19		
+a5bcdbe488cd2688d822acdd4da10429	NASIC	561710	Exterminating and Pest Control Services	current	2024-12-19		kds_adm	2024-12-19		
+44ec905afea2b9625eddd96f39652c80	NASIC	561622	Locksmiths 	current	2024-12-19		kds_adm	2024-12-19		
+5990307e558b5ae4338fe8ae2920babb	NASIC	561621	Security Systems Services (except Locksmiths) 	current	2024-12-19		kds_adm	2024-12-19		
+9e053bf340f7788bbeebcff0dfb059c5	NASIC	561613	Armored Car Services 	current	2024-12-19		kds_adm	2024-12-19		
+374ad23a0b36c1f00ffa25b3d868c137	NASIC	561612	Security Guards and Patrol Services 	current	2024-12-19		kds_adm	2024-12-19		
+04b85df00997f0ef8ebfd09987b01b8e	NASIC	561611	Investigation and Personal Background Check Services 	current	2024-12-19		kds_adm	2024-12-19		
+9bf58ff150b47bb6136fe268f8088ead	NASIC	561599	All Other Travel Arrangement and Reservation Services 	current	2024-12-19		kds_adm	2024-12-19		
+b9fbad4d2721f3598e50ae78e57d9ded	NASIC	561591	Convention and Visitors Bureaus 	current	2024-12-19		kds_adm	2024-12-19		
+c5bd46e44a5dbc9173101f3b00f3302f	NASIC	561520	Tour Operators	current	2024-12-19		kds_adm	2024-12-19		
+5debc9772b5a12befb15df989c847f0a	NASIC	561510	Travel Agencies	current	2024-12-19		kds_adm	2024-12-19		
+6a6065db3ffa6cc87c8852ca4b8a7d4f	NASIC	561499	All Other Business Support Services 	current	2024-12-19		kds_adm	2024-12-19		
+c83fee97c054994d1547e3f44af9b4d2	NASIC	561492	Court Reporting and Stenotype Services 	current	2024-12-19		kds_adm	2024-12-19		
+dff8d35fbe8d931912c18adb8650170d	NASIC	561491	Repossession Services 	current	2024-12-19		kds_adm	2024-12-19		
+1224b0f22b03b6e4d3c6dbe76ff244ba	NASIC	561450	Credit Bureaus	current	2024-12-19		kds_adm	2024-12-19		
+b1a0459183e50843a0b274da0dcd62ee	NASIC	561440	Collection Agencies	current	2024-12-19		kds_adm	2024-12-19		
+761ed2a9d1d4675852bbf476cbf4deed	NASIC	561439	Other Business Service Centers (including Copy Shops) 	current	2024-12-19		kds_adm	2024-12-19		
+66337a21c373acc5a1b2359009e28f75	NASIC	561431	Private Mail Centers 	current	2024-12-19		kds_adm	2024-12-19		
+9386b32dc3b1687af24e2e99d01ebbf0	NASIC	561422	Telemarketing Bureaus and Other Contact Centers 	current	2024-12-19		kds_adm	2024-12-19		
+d898253edcd9650517d4e25af3e6c601	NASIC	561421	Telephone Answering Services 	current	2024-12-19		kds_adm	2024-12-19		
+45de03db7442c568c44fcc935f0ea4e6	NASIC	561410	Document Preparation Services	current	2024-12-19		kds_adm	2024-12-19		
+b3ea6f855ee008ee606f010a6a514010	NASIC	561330	Professional Employer Organizations	current	2024-12-19		kds_adm	2024-12-19		
+4faf957457777bec262fe59f4f63bec4	NASIC	561320	Temporary Help Services	current	2024-12-19		kds_adm	2024-12-19		
+4abfec375c950439dce6faad0567fe17	NASIC	561312	Executive Search Services 	current	2024-12-19		kds_adm	2024-12-19		
+25a0848ef2cb09ae1c0b60794f8da610	NASIC	561311	Employment Placement Agencies 	current	2024-12-19		kds_adm	2024-12-19		
+3c248aed77a12c9346b1a86ae25c1b2f	NASIC	561210	Facilities Support Services	current	2024-12-19		kds_adm	2024-12-19		
+1379a7cb8726b1424f274a2286ef1597	NASIC	561110	Office Administrative Services	current	2024-12-19		kds_adm	2024-12-19		
+1a850a9588f2d4b3ed97dc7d2a6cbaa6	NASIC	551114	Corporate, Subsidiary, and Regional Managing Offices 	current	2024-12-19		kds_adm	2024-12-19		
+6e891379e96bb2c38157e8ee1ab200b9	NASIC	551112	Offices of Other Holding Companies 	current	2024-12-19		kds_adm	2024-12-19		
+6a61d289c1127f603329d799f18f2188	NASIC	551111	Offices of Bank Holding Companies 	current	2024-12-19		kds_adm	2024-12-19		
+26713bd6d4b5f588198cf64017d34fa0	NASIC	541990	All Other Professional, Scientific, and Technical Services	current	2024-12-19		kds_adm	2024-12-19		
+6e4f47bf050c99f84907b2760a542750	NASIC	541940	Veterinary Services 	current	2024-12-19		kds_adm	2024-12-19		
+3ed853d9363956c2206caff9cd981462	NASIC	541930	Translation and Interpretation Services	current	2024-12-19		kds_adm	2024-12-19		
+b62d3dfb82e0a970bde5afe635fd4bf3	NASIC	541922	Commercial Photography 	current	2024-12-19		kds_adm	2024-12-19		
+6767540b2ce082e25e4d79d431e1116c	NASIC	541921	Photography Studios, Portrait 	current	2024-12-19		kds_adm	2024-12-19		
+aa76a60f7f3f972a79bc24fc508444ee	NASIC	541910	Marketing Research and Public Opinion Polling	current	2024-12-19		kds_adm	2024-12-19		
+d9e4286ac2c0688767d1bcf551cf1226	NASIC	541890	Other Services Related to Advertising 	current	2024-12-19		kds_adm	2024-12-19		
+fc54fbf995aac9e54bb28b71a86129d6	NASIC	541870	Advertising Material Distribution Services	current	2024-12-19		kds_adm	2024-12-19		
+370f8276bf727871f2a3733c370cf3b9	NASIC	541860	Direct Mail Advertising	current	2024-12-19		kds_adm	2024-12-19		
+cdf247c7023389e983d16b7870951551	NASIC	541850	Indoor and Outdoor Display Advertising	current	2024-12-19		kds_adm	2024-12-19		
+b2813803ba184a3a8c33a9f46cbd1025	NASIC	541840	Media Representatives	current	2024-12-19		kds_adm	2024-12-19		
+bdfab689da48a7bfcc9e1b1cb07878fa	NASIC	541830	Media Buying Agencies	current	2024-12-19		kds_adm	2024-12-19		
+1a4867e392d29001ddc07e6e7d28d1b7	NASIC	541820	Public Relations Agencies	current	2024-12-19		kds_adm	2024-12-19		
+5b94155804c71eb18a161bd9ffde4d20	NASIC	541810	Advertising Agencies	current	2024-12-19		kds_adm	2024-12-19		
+188c08e6cc0e1370722b5452e1add297	NASIC	541720	Research and Development in the Social Sciences and Humanities 	current	2024-12-19		kds_adm	2024-12-19		
+d22b610c3f7748e84cbf627b7563fd6c	NASIC	541715	Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) 	current	2024-12-19		kds_adm	2024-12-19		
+2045cd52ef0959d6f185ef2f4495ce84	NASIC	541714	Research and Development in Biotechnology (except Nanobiotechnology)	current	2024-12-19		kds_adm	2024-12-19		
+3d1db4cc5d6b895b1616810e7f8ce6ce	NASIC	541713	Research and Development in Nanotechnology 	current	2024-12-19		kds_adm	2024-12-19		
+7df7d0061a8e997feadc300b189f97f7	NASIC	541690	Other Scientific and Technical Consulting Services	current	2024-12-19		kds_adm	2024-12-19		
+471531570b711bc38c398a11332e1d6a	NASIC	541620	Environmental Consulting Services	current	2024-12-19		kds_adm	2024-12-19		
+7809176e876b6058647a7eb65b913178	NASIC	541618	Other Management Consulting Services 	current	2024-12-19		kds_adm	2024-12-19		
+aa78e147b5daabdc1482c505fa23702b	NASIC	541614	Process, Physical Distribution, and Logistics Consulting Services 	current	2024-12-19		kds_adm	2024-12-19		
+75f45d4b5ede8b5885bc4a923affcd24	NASIC	541613	Marketing Consulting Services 	current	2024-12-19		kds_adm	2024-12-19		
+fa6af9c8e780ee250f130484c73f5910	NASIC	541612	Human Resources Consulting Services 	current	2024-12-19		kds_adm	2024-12-19		
+6254632c21ecefeb3c7074c23bcd93cb	NASIC	541611	Administrative Management and General Management Consulting Services 	current	2024-12-19		kds_adm	2024-12-19		
+4595e05f9f9946075e0712ea7ad3a259	NASIC	541519	Other Computer Related Services	current	2024-12-19		kds_adm	2024-12-19		
+b1fcad8ee45a90c3615a648b73d60f29	NASIC	541513	Computer Facilities Management Services 	current	2024-12-19		kds_adm	2024-12-19		
+38f45f0e8696ca8b867409985392e734	NASIC	541512	Computer Systems Design Services 	current	2024-12-19		kds_adm	2024-12-19		
+00bc891e15d74a16e633638fe60257c5	NASIC	541511	Custom Computer Programming Services 	current	2024-12-19		kds_adm	2024-12-19		
+49713bb4825bd257965b1e08b25c2db5	NASIC	541490	Other Specialized Design Services	current	2024-12-19		kds_adm	2024-12-19		
+cdffba2c4c7bc828a5af10ee628ade2e	NASIC	541430	Graphic Design Services	current	2024-12-19		kds_adm	2024-12-19		
+a8be0697fd0cf249a88ad6765411ec4b	NASIC	541420	Industrial Design Services	current	2024-12-19		kds_adm	2024-12-19		
+ffac2cb3ffc6bf77098230843f1812bc	NASIC	541410	Interior Design Services	current	2024-12-19		kds_adm	2024-12-19		
+a803b4b44185893f59f45d4b6f5d413a	NASIC	541380	Testing Laboratories and Services	current	2024-12-19		kds_adm	2024-12-19		
+b6827072e4943cffea020ca5e3e0afe2	NASIC	541370	Surveying and Mapping (except Geophysical) Services	current	2024-12-19		kds_adm	2024-12-19		
+036826eaff878af0769eed7ca48675b5	NASIC	541360	Geophysical Surveying and Mapping Services	current	2024-12-19		kds_adm	2024-12-19		
+6e6ec923431516c3f01f9b8cfdce9be0	NASIC	541350	Building Inspection Services	current	2024-12-19		kds_adm	2024-12-19		
+01c8dd29861be26bbfb6584f81afe9bf	NASIC	541340	Drafting Services	current	2024-12-19		kds_adm	2024-12-19		
+451ccab938057fc429734d3a7c924fad	NASIC	541330	Engineering Services	current	2024-12-19		kds_adm	2024-12-19		
+8956bd85ce352719f1fd3e095a5caa0f	NASIC	541320	Landscape Architectural Services	current	2024-12-19		kds_adm	2024-12-19		
+8a893d910eb6ab81ead44b1c9e2195c4	NASIC	541310	Architectural Services	current	2024-12-19		kds_adm	2024-12-19		
+4d0110f41e8c1387aa25f474065a7960	NASIC	541219	Other Accounting Services 	current	2024-12-19		kds_adm	2024-12-19		
+902645b76e14adb7482a7c0941222831	NASIC	541214	Payroll Services 	current	2024-12-19		kds_adm	2024-12-19		
+13e02929013c93462738e3fc2ad9a806	NASIC	541213	Tax Preparation Services 	current	2024-12-19		kds_adm	2024-12-19		
+5f5e5a184f00a469bec49f718d248f8d	NASIC	541211	Offices of Certified Public Accountants 	current	2024-12-19		kds_adm	2024-12-19		
+372c6b6d2cfe2fed995372e35616b7ba	NASIC	541199	All Other Legal Services 	current	2024-12-19		kds_adm	2024-12-19		
+7208c688f4a5dcb57bd24fa179a1de0b	NASIC	541191	Title Abstract and Settlement Offices 	current	2024-12-19		kds_adm	2024-12-19		
+231ec00ba1acda86fa40cba89d1ec8e5	NASIC	541120	Offices of Notaries	current	2024-12-19		kds_adm	2024-12-19		
+5c4be51323422f4ef4f278592488b1f0	NASIC	541110	Offices of Lawyers	current	2024-12-19		kds_adm	2024-12-19		
+4db8a58b8714f271f3bff51198fbe254	NASIC	533110	Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)	current	2024-12-19		kds_adm	2024-12-19		
+4362da42117038ab1e12a708cd8e354f	NASIC	532490	Other Commercial and Industrial Machinery and Equipment Rental and Leasing 	current	2024-12-19		kds_adm	2024-12-19		
+f02754260332eabfcacba6448f6210f8	NASIC	532420	Office Machinery and Equipment Rental and Leasing	current	2024-12-19		kds_adm	2024-12-19		
+e79912fba33b810209cdd58a0a0ead9e	NASIC	532412	Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing 	current	2024-12-19		kds_adm	2024-12-19		
+5d7b7a83b1be8c6876487d2d56d82378	NASIC	532411	Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing 	current	2024-12-19		kds_adm	2024-12-19		
+af002d9dc02f34b0046946aa3dde1a21	NASIC	532310	General Rental Centers	current	2024-12-19		kds_adm	2024-12-19		
+d5461b207e98f4676335caeaded0dc0b	NASIC	532289	All Other Consumer Goods Rental 	current	2024-12-19		kds_adm	2024-12-19		
+37103b92d1cd9b8dbc66a9b169f00b59	NASIC	532284	Recreational Goods Rental 	current	2024-12-19		kds_adm	2024-12-19		
+edeeb0c20454da8b2b0bcc22cc5a2ebb	NASIC	532283	Home Health Equipment Rental 	current	2024-12-19		kds_adm	2024-12-19		
+704c36f3a2c8aa6a0d78c34cef466e90	NASIC	532282	Video Tape and Disc Rental	current	2024-12-19		kds_adm	2024-12-19		
+f09076c7f0adf03dbc506f21c7127da3	NASIC	532281	Formal Wear and Costume Rental	current	2024-12-19		kds_adm	2024-12-19		
+214ea13b0b7dbae13a9869830b1833c1	NASIC	532210	Consumer Electronics and Appliances Rental	current	2024-12-19		kds_adm	2024-12-19		
+dee1be7f1fcfa9081197b8fd24254c59	NASIC	449110	Furniture Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+2b9921d250c816dcc204959cb01cde6f	NASIC	532120	Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing 	current	2024-12-19		kds_adm	2024-12-19		
+c31b1015995840cc4110bac17ef58f7e	NASIC	532112	Passenger Car Leasing 	current	2024-12-19		kds_adm	2024-12-19		
+46906b6ced97472f2b2e2f62deaf0af9	NASIC	532111	Passenger Car Rental 	current	2024-12-19		kds_adm	2024-12-19		
+bbd7fa263b85b86baa3f5e8e5264142f	NASIC	531390	Other Activities Related to Real Estate 	current	2024-12-19		kds_adm	2024-12-19		
+a8936156c8df73ce1774dc405c9ac650	NASIC	531320	Offices of Real Estate Appraisers 	current	2024-12-19		kds_adm	2024-12-19		
+8a00815b4e0206e4f74ddf58cbe7cc8b	NASIC	531312	Nonresidential Property Managers 	current	2024-12-19		kds_adm	2024-12-19		
+c820f0856c132ccc6de476ffd9b45e7b	NASIC	531311	Residential Property Managers 	current	2024-12-19		kds_adm	2024-12-19		
+c158da3f287670c525f1a86cd57a746a	NASIC	531210	Offices of Real Estate Agents and Brokers	current	2024-12-19		kds_adm	2024-12-19		
+eb1003588c0638d2c75c52a6724b5b2f	NASIC	531190	Lessors of Other Real Estate Property 	current	2024-12-19		kds_adm	2024-12-19		
+e8794e870be8d95bdae5a440874525cf	NASIC	531130	Lessors of Miniwarehouses and Self-Storage Units 	current	2024-12-19		kds_adm	2024-12-19		
+a96df6be0a611ebe216032889e3f2840	NASIC	531120	Lessors of Nonresidential Buildings (except Miniwarehouses) 	current	2024-12-19		kds_adm	2024-12-19		
+ff214fb92fb343ca8681781d16db2ffa	NASIC	531110	Lessors of Residential Buildings and Dwellings 	current	2024-12-19		kds_adm	2024-12-19		
+6c2dd6ba593b889ae98d257998215852	NASIC	525990	Other Financial Vehicles 	current	2024-12-19		kds_adm	2024-12-19		
+613a8f9680b93a2921967559b5f54d59	NASIC	525920	Trusts, Estates, and Agency Accounts 	current	2024-12-19		kds_adm	2024-12-19		
+2c3fd61176f22582a6778dfbafa6c32f	NASIC	525910	Open-End Investment Funds 	current	2024-12-19		kds_adm	2024-12-19		
+c52a53016a316c3088461a8c92d23d1e	NASIC	525190	Other Insurance Funds 	current	2024-12-19		kds_adm	2024-12-19		
+e30818a60e7c0153038b082a51f1ca89	NASIC	525120	Health and Welfare Funds 	current	2024-12-19		kds_adm	2024-12-19		
+f1fdfa9fa3c9e67f6664902e0e6630c4	NASIC	525110	Pension Funds 	current	2024-12-19		kds_adm	2024-12-19		
+2849dceab8d71ce4c489a5a20dce2c52	NASIC	524298	All Other Insurance Related Activities 	current	2024-12-19		kds_adm	2024-12-19		
+c6b356b7360ab6599941c2e20cc11733	NASIC	524292	Pharmacy Benefit Management and Other Third Party Administration of Insurance and Pension Funds 	current	2024-12-19		kds_adm	2024-12-19		
+8489c4ae5d3647728245cc7f40ebf518	NASIC	524291	Claims Adjusting 	current	2024-12-19		kds_adm	2024-12-19		
+7125b570564e8679b84d1ca6c936ff32	NASIC	524210	Insurance Agencies and Brokerages 	current	2024-12-19		kds_adm	2024-12-19		
+c55191a23acc4a994f1d10ac9da17b8f	NASIC	524130	Reinsurance Carriers 	current	2024-12-19		kds_adm	2024-12-19		
+395c24590f0bf20f131a7e510b60dda7	NASIC	524128	Other Direct Insurance (except Life, Health, and Medical) Carriers 	current	2024-12-19		kds_adm	2024-12-19		
+4657af4852e13bafb2bf05433a40e0ca	NASIC	524127	Direct Title Insurance Carriers 	current	2024-12-19		kds_adm	2024-12-19		
+83e6efa0c3585c07a4a12eed54796ff3	NASIC	524126	Direct Property and Casualty Insurance Carriers 	current	2024-12-19		kds_adm	2024-12-19		
+9cc56414ec68bde631d257fb7b411489	NASIC	524114	Direct Health and Medical Insurance Carriers 	current	2024-12-19		kds_adm	2024-12-19		
+5732aec46264505b11575ea160278719	NASIC	524113	Direct Life Insurance Carriers 	current	2024-12-19		kds_adm	2024-12-19		
+6dd1c4420b6c7a45b32e5248a2477248	NASIC	523999	Miscellaneous Financial Investment Activities 	current	2024-12-19		kds_adm	2024-12-19		
+48d880f4024e003f3aeb82d517c6bb2d	NASIC	523991	Trust, Fiduciary, and Custody Activities 	current	2024-12-19		kds_adm	2024-12-19		
+b1e0dbdc3dc0b78980fbb0b36eb971f2	NASIC	523940	Portfolio Management and Investment Advice 	current	2024-12-19		kds_adm	2024-12-19		
+dd49062297e012f3c8fdb5bcbac9955b	NASIC	523910	Miscellaneous Intermediation 	current	2024-12-19		kds_adm	2024-12-19		
+3d4e2fbf1eb875bc18ee007a802ba294	NASIC	523210	Securities and Commodity Exchanges	current	2024-12-19		kds_adm	2024-12-19		
+5653e611932fb8b6b055dad9338fcb90	NASIC	523160	Commodity Contracts Intermediation 	current	2024-12-19		kds_adm	2024-12-19		
+e15c78c77b65c19f95a2e8d466232f4b	NASIC	523150	Investment Banking and Securities Intermediation 	current	2024-12-19		kds_adm	2024-12-19		
+6f8da1715387d626b240eb27b5bb08bb	NASIC	522390	Other Activities Related to Credit Intermediation 	current	2024-12-19		kds_adm	2024-12-19		
+86b0b62d6c9a7fd55c1942bbaafb102d	NASIC	522320	Financial Transactions Processing, Reserve, and Clearinghouse Activities 	current	2024-12-19		kds_adm	2024-12-19		
+6d52e3f453722f5613b29120f6e06cfb	NASIC	522310	Mortgage and Nonmortgage Loan Brokers 	current	2024-12-19		kds_adm	2024-12-19		
+6b1afb2f672b8ee7b75720f2fa7bddf1	NASIC	522299	International, Secondary Market, and All Other Nondepository Credit Intermediation 	current	2024-12-19		kds_adm	2024-12-19		
+1d3be6bed62559bd62b82bf5793a56ee	NASIC	522292	Real Estate Credit 	current	2024-12-19		kds_adm	2024-12-19		
+9b71faee8ffe85746d7830a9217bbe13	NASIC	522291	Consumer Lending 	current	2024-12-19		kds_adm	2024-12-19		
+70e41d81e3d4fd54ac607904f9dbe3f1	NASIC	522220	Sales Financing 	current	2024-12-19		kds_adm	2024-12-19		
+b0d9b9836f901b791c6a665984707459	NASIC	522210	Credit Card Issuing 	current	2024-12-19		kds_adm	2024-12-19		
+fd81c3be6f9cecf8028b1f0d4ed69314	NASIC	522180	Savings Institutions and Other Depository Credit Intermediation 	current	2024-12-19		kds_adm	2024-12-19		
+d3a507c89d15b0bc99bd40fa3dcc3ba1	NASIC	522130	Credit Unions 	current	2024-12-19		kds_adm	2024-12-19		
+d304a5eec9eb1b42baadca3212674280	NASIC	522110	Commercial Banking 	current	2024-12-19		kds_adm	2024-12-19		
+7edae521bfe1b06472723493299ba31b	NASIC	331222	Steel Wire Drawing 	current	2024-12-19		kds_adm	2024-12-19		
+295b6a0b1abf5b91393ad2908e656bd7	NASIC	521110	Monetary Authorities-Central Bank	current	2024-12-19		kds_adm	2024-12-19		
+7b223ee1a9d121acec0ba731f2f62e2c	NASIC	519290	Web Search Portals and All Other Information Services	current	2024-12-19		kds_adm	2024-12-19		
+0d4372a58696973f54db37e892b34d05	NASIC	519210	Libraries and Archives 	current	2024-12-19		kds_adm	2024-12-19		
+d6f009a943249c35c8f5460b86957888	NASIC	518210	Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services	current	2024-12-19		kds_adm	2024-12-19		
+af855846b9cc18c59a0d8228f171b537	NASIC	517810	All Other Telecommunications 	current	2024-12-19		kds_adm	2024-12-19		
+1c6433a3c5e15e1f7661c612f3ba830f	NASIC	517410	Satellite Telecommunications	current	2024-12-19		kds_adm	2024-12-19		
+1864651f47388f37f29f99ed89741f09	NASIC	517122	Agents for Wireless Telecommunications Services	current	2024-12-19		kds_adm	2024-12-19		
+c030cea058e682ea9fe99ccfc55851de	NASIC	517121	Telecommunications Resellers	current	2024-12-19		kds_adm	2024-12-19		
+38ca1dfccb5d7bafbd12e76d75ae3b6b	NASIC	517112	Wireless Telecommunications Carriers (except Satellite)	current	2024-12-19		kds_adm	2024-12-19		
+5b2f2e2acf16d5f689fc2b01bc1f0746	NASIC	517111	Wired Telecommunications Carriers 	current	2024-12-19		kds_adm	2024-12-19		
+2c5c700d6a5e198bd81b14dfc8d5f340	NASIC	516210	Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers	current	2024-12-19		kds_adm	2024-12-19		
+2182ad33604d894f41a104468c72ad14	NASIC	516120	Television Broadcasting Stations	current	2024-12-19		kds_adm	2024-12-19		
+6c1d79f36b22fb463f41c5039b7b6819	NASIC	516110	Radio Broadcasting Stations 	current	2024-12-19		kds_adm	2024-12-19		
+017ac72c65aa5220fca81f3318444e5b	NASIC	513210	Software Publishers	current	2024-12-19		kds_adm	2024-12-19		
+3f8cda51ceefdfe90f29b38d19f01d8e	NASIC	513199	All Other Publishers 	current	2024-12-19		kds_adm	2024-12-19		
+ec5113471e9417c3f5de1a502381e1d8	NASIC	513191	Greeting Card Publishers 	current	2024-12-19		kds_adm	2024-12-19		
+d8fae6d5294a2bd9df1b0fa4bd0fafc2	NASIC	513140	Directory and Mailing List Publishers 	current	2024-12-19		kds_adm	2024-12-19		
+6a6547a49c0f2784ca62e732746da082	NASIC	513130	Book Publishers 	current	2024-12-19		kds_adm	2024-12-19		
+ffd9516db06b04b5e16c747623f5756b	NASIC	513120	Periodical Publishers 	current	2024-12-19		kds_adm	2024-12-19		
+fa1eec604e0e93b3b55583f06fe4d46d	NASIC	513110	Newspaper Publishers 	current	2024-12-19		kds_adm	2024-12-19		
+30829612443bdff6b1022f769fea35ee	NASIC	512290	Other Sound Recording Industries	current	2024-12-19		kds_adm	2024-12-19		
+0fa77ab4051e12bbb2dd8d735b2f6260	NASIC	512250	Record Production and Distribution	current	2024-12-19		kds_adm	2024-12-19		
+fddafdba001a1d56428a0f6dd378fbb6	NASIC	512240	Sound Recording Studios	current	2024-12-19		kds_adm	2024-12-19		
+e0b83c374f665fd9b7916c576b353c81	NASIC	512230	Music Publishers	current	2024-12-19		kds_adm	2024-12-19		
+6eab355ad9ba8b2eab0d6d1e26e05910	NASIC	512199	Other Motion Picture and Video Industries 	current	2024-12-19		kds_adm	2024-12-19		
+389444d113638b348da8c3ec3b31ca24	NASIC	512191	Teleproduction and Other Postproduction Services 	current	2024-12-19		kds_adm	2024-12-19		
+6d6c56341a1a45f44600fd4c60319c81	NASIC	512132	Drive-In Motion Picture Theaters 	current	2024-12-19		kds_adm	2024-12-19		
+b2cd630cff0eddf5fdd1c484cfb3d7c9	NASIC	512131	Motion Picture Theaters (except Drive-Ins) 	current	2024-12-19		kds_adm	2024-12-19		
+10b84071606020253ccc28c3e2eb8cdd	NASIC	512120	Motion Picture and Video Distribution	current	2024-12-19		kds_adm	2024-12-19		
+4716a2f771489952dc9316086ff81af6	NASIC	512110	Motion Picture and Video Production 	current	2024-12-19		kds_adm	2024-12-19		
+06a23e0398bbd380ef62731985307808	NASIC	493190	Other Warehousing and Storage	current	2024-12-19		kds_adm	2024-12-19		
+a13dbea9a136cdd1d1cc4a739900b3f7	NASIC	493130	Farm Product Warehousing and Storage	current	2024-12-19		kds_adm	2024-12-19		
+669c7c7a68d176a1a0e732b4ea6ae613	NASIC	493120	Refrigerated Warehousing and Storage	current	2024-12-19		kds_adm	2024-12-19		
+44e9587be282074abb3e79f58c28c74f	NASIC	493110	General Warehousing and Storage 	current	2024-12-19		kds_adm	2024-12-19		
+67b26132fa3c85c8e3d1ff902b78eb87	NASIC	492210	Local Messengers and Local Delivery	current	2024-12-19		kds_adm	2024-12-19		
+10138737dac8bb81c12cbcc8d9fd6fc4	NASIC	492110	Couriers and Express Delivery Services	current	2024-12-19		kds_adm	2024-12-19		
+0d3a0e054616383bdc867d7d671736eb	NASIC	491110	Postal Service	current	2024-12-19		kds_adm	2024-12-19		
+7f6f23a2e7e2c98a603b415390aea1da	NASIC	488999	All Other Support Activities for Transportation 	current	2024-12-19		kds_adm	2024-12-19		
+5e11956f2f866b7607f41a398e2d7511	NASIC	488991	Packing and Crating 	current	2024-12-19		kds_adm	2024-12-19		
+1178ac0d18c9fc9bd2c1d1be788e99cf	NASIC	488510	Freight Transportation Arrangement 	current	2024-12-19		kds_adm	2024-12-19		
+81c25c91555b93fe3777a8a8ea4df964	NASIC	488490	Other Support Activities for Road Transportation 	current	2024-12-19		kds_adm	2024-12-19		
+bd43ed20e7ecbd4c829c4e0c87c9c329	NASIC	488410	Motor Vehicle Towing	current	2024-12-19		kds_adm	2024-12-19		
+d38465f5c6d2befabaf42a231ad7f31a	NASIC	488390	Other Support Activities for Water Transportation	current	2024-12-19		kds_adm	2024-12-19		
+3ceb11b799f2860ccd179fe154de68da	NASIC	488330	Navigational Services to Shipping 	current	2024-12-19		kds_adm	2024-12-19		
+eb96666493c83af06b666c962f1998d3	NASIC	488320	Marine Cargo Handling	current	2024-12-19		kds_adm	2024-12-19		
+c0a7eaffd993996d825f4aefff3f87f7	NASIC	488310	Port and Harbor Operations	current	2024-12-19		kds_adm	2024-12-19		
+0b8c37a9eb99b1291e287f9fe0abcce6	NASIC	488210	Support Activities for Rail Transportation	current	2024-12-19		kds_adm	2024-12-19		
+22aeb1ca4117d73112ee6878c97b7e60	NASIC	488190	Other Support Activities for Air Transportation	current	2024-12-19		kds_adm	2024-12-19		
+18b912130b7c804c0e43485185e09920	NASIC	488119	Other Airport Operations 	current	2024-12-19		kds_adm	2024-12-19		
+30c110c9ea87e9f68feb0f7652da9ddd	NASIC	488111	Air Traffic Control	current	2024-12-19		kds_adm	2024-12-19		
+188f0e3d38f52325448ffb09755922b1	NASIC	487990	Scenic and Sightseeing Transportation, Other	current	2024-12-19		kds_adm	2024-12-19		
+8fe3a8607c2e8b546edaacda613b04c7	NASIC	487210	Scenic and Sightseeing Transportation, Water	current	2024-12-19		kds_adm	2024-12-19		
+32718267fcd62a36d9330893a17eac6f	NASIC	487110	Scenic and Sightseeing Transportation, Land	current	2024-12-19		kds_adm	2024-12-19		
+90610e386673a933987b0952dd5a69ef	NASIC	486990	All Other Pipeline Transportation	current	2024-12-19		kds_adm	2024-12-19		
+ae045c58be2ad1d167d63fbd7b36b795	NASIC	486910	Pipeline Transportation of Refined Petroleum Products	current	2024-12-19		kds_adm	2024-12-19		
+759e1f679757c67bc9bbada7a4996e0b	NASIC	486210	Pipeline Transportation of Natural Gas	current	2024-12-19		kds_adm	2024-12-19		
+4344a89e969d56d005c65f2e73b268cb	NASIC	486110	Pipeline Transportation of Crude Oil	current	2024-12-19		kds_adm	2024-12-19		
+be7283767d927c7892bd2eda61fcee69	NASIC	485999	All Other Transit and Ground Passenger Transportation 	current	2024-12-19		kds_adm	2024-12-19		
+e7fb6e6a982f1a7f3f7c04b22b9bd201	NASIC	485991	Special Needs Transportation 	current	2024-12-19		kds_adm	2024-12-19		
+ec1f4a0cec5868db6fb64922077a2009	NASIC	485510	Charter Bus Industry	current	2024-12-19		kds_adm	2024-12-19		
+dee8ad7ea604a080ad0d9dfa551664c6	NASIC	485410	School and Employee Bus Transportation	current	2024-12-19		kds_adm	2024-12-19		
+e618bbe979120303ec7176b38f3b994f	NASIC	485320	Limousine Service	current	2024-12-19		kds_adm	2024-12-19		
+46a595fe8723c95c11ceadc9a92af8c6	NASIC	485310	Taxi and Ridesharing Services 	current	2024-12-19		kds_adm	2024-12-19		
+de8c6a66b53146d565b7049b07fe67a6	NASIC	485210	Interurban and Rural Bus Transportation	current	2024-12-19		kds_adm	2024-12-19		
+cdd7fdb77d06ecb965871b0cbafe6003	NASIC	485119	Other Urban Transit Systems 	current	2024-12-19		kds_adm	2024-12-19		
+b50e7783665742916ffded9025443b96	NASIC	485113	Bus and Other Motor Vehicle Transit Systems 	current	2024-12-19		kds_adm	2024-12-19		
+850c4ed5826d1a4dd87ad17cb2195d82	NASIC	485112	Commuter Rail Systems 	current	2024-12-19		kds_adm	2024-12-19		
+501c70170448c114c14b897edf9be36f	NASIC	485111	Mixed Mode Transit Systems 	current	2024-12-19		kds_adm	2024-12-19		
+319606235c77ede5150aa57969b05cff	NASIC	484230	Specialized Freight (except Used Goods) Trucking, Long-Distance 	current	2024-12-19		kds_adm	2024-12-19		
+93c2a0163d9ff1042a28801ed2930311	NASIC	484220	Specialized Freight (except Used Goods) Trucking, Local 	current	2024-12-19		kds_adm	2024-12-19		
+31ead5e807f864fce4ce03347e614c0c	NASIC	484210	Used Household and Office Goods Moving	current	2024-12-19		kds_adm	2024-12-19		
+0c58129f5b7b3ee10576ed6b2e496274	NASIC	484122	General Freight Trucking, Long-Distance, Less Than Truckload 	current	2024-12-19		kds_adm	2024-12-19		
+c1b2a2317d933c2aced9dc28b4c3831c	NASIC	484121	General Freight Trucking, Long-Distance, Truckload 	current	2024-12-19		kds_adm	2024-12-19		
+abf7fd439d10ccbdb3f6206217a378d9	NASIC	484110	General Freight Trucking, Local 	current	2024-12-19		kds_adm	2024-12-19		
+1758018c2fdc442a905ffa01fd8c3053	NASIC	483212	Inland Water Passenger Transportation 	current	2024-12-19		kds_adm	2024-12-19		
+ad91843e869be56130c38fbd356e116d	NASIC	483211	Inland Water Freight Transportation 	current	2024-12-19		kds_adm	2024-12-19		
+ed59a4176d990d473ddd2dbc828756ba	NASIC	483114	Coastal and Great Lakes Passenger Transportation 	current	2024-12-19		kds_adm	2024-12-19		
+af4489ff3c000c9f22fe9cfa23b9ef43	NASIC	483113	Coastal and Great Lakes Freight Transportation 	current	2024-12-19		kds_adm	2024-12-19		
+c9ac08b1da1f8a772b2789e37ca41bea	NASIC	483112	Deep Sea Passenger Transportation 	current	2024-12-19		kds_adm	2024-12-19		
+c357a92a98a18cc7570eb8e37507ed79	NASIC	483111	Deep Sea Freight Transportation 	current	2024-12-19		kds_adm	2024-12-19		
+2c4bfbdbb88f07f853a2c2eb4028fcfc	NASIC	482112	Short Line Railroads 	current	2024-12-19		kds_adm	2024-12-19		
+f140936f5c4f5ff58b3601ba61101ffc	NASIC	482111	Line-Haul Railroads 	current	2024-12-19		kds_adm	2024-12-19		
+1a2cb09c6c5d3339ad3cc105d2dea8d4	NASIC	481219	Other Nonscheduled Air Transportation 	current	2024-12-19		kds_adm	2024-12-19		
+d9b6c4de85df01da9d6cb6631edd8397	NASIC	481212	Nonscheduled Chartered Freight Air Transportation 	current	2024-12-19		kds_adm	2024-12-19		
+36a754a03facae3fb69a2fd18a8a3413	NASIC	481211	Nonscheduled Chartered Passenger Air Transportation 	current	2024-12-19		kds_adm	2024-12-19		
+a2f02bfb918bc49df16e7181b525ef29	NASIC	481112	Scheduled Freight Air Transportation 	current	2024-12-19		kds_adm	2024-12-19		
+98f8727cd4e103dd69488710efa2a383	NASIC	481111	Scheduled Passenger Air Transportation 	current	2024-12-19		kds_adm	2024-12-19		
+0949b8c3af5e410926f937ea66e4c315	NASIC	459999	All Other Miscellaneous Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+94f82b8fa30a0ca0f385aa918669f73c	NASIC	459991	Tobacco, Electronic Cigarette, and Other Smoking Supplies Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+02b5f1f868669f7dabda38c53f1a569e	NASIC	459930	Manufactured (Mobile) Home Dealers 	current	2024-12-19		kds_adm	2024-12-19		
+b24b4e5ec128a49eca04cea4937bf9b0	NASIC	459920	Art Dealers 	current	2024-12-19		kds_adm	2024-12-19		
+81f12d9225f9021c9214d70eb8ac2a99	NASIC	459910	Pet and Pet Supplies Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+85f899f9e8a9621389c2a70cf328b506	NASIC	459510	Used Merchandise Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+e50b321f1794a454504069e0a351776b	NASIC	459420	Gift, Novelty, and Souvenir Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+ea17657391fd6c1f46b5a5440f29d00b	NASIC	459410	Office Supplies and Stationery Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+1764cb265cdff8c30a95b5118ffda0da	NASIC	459310	Florists 	current	2024-12-19		kds_adm	2024-12-19		
+d78211d8bd687f670518dc5c6cdbf01f	NASIC	459210	Book Retailers and News Dealers 	current	2024-12-19		kds_adm	2024-12-19		
+14c1d22e730224ee6cff008cf53a8cd9	NASIC	459140	Musical Instrument and Supplies Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+ba3904d5c55b541dfaf5c06c0c4de1f7	NASIC	459130	Sewing, Needlework, and Piece Goods Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+179f7ade8214e7186cf57b033b88a57b	NASIC	459120	Hobby, Toy, and Game Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+b4147a854712aa1d670637a1a3455947	NASIC	459110	Sporting Goods Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+cb70a3c9c45726331f0144428e4cd5a8	NASIC	458320	Luggage and Leather Goods Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+6650bdf70bad1e499ae8021eba27fa79	NASIC	458310	Jewelry Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+690f7532a22c104f4e230ca9c98903a8	NASIC	458210	Shoe Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+5bdf592a42051cf1814765bbaec69196	NASIC	458110	Clothing and Clothing Accessories Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+019e60a18bc7fd0ff441d9a236e4b9a9	NASIC	457210	Fuel Dealers 	current	2024-12-19		kds_adm	2024-12-19		
+ec7fbf92d2ad75e8b4582fb982d253ea	NASIC	457120	Other Gasoline Stations 	current	2024-12-19		kds_adm	2024-12-19		
+96b13556505d3aebab50ab1301d1fd5c	NASIC	457110	Gasoline Stations with Convenience Stores 	current	2024-12-19		kds_adm	2024-12-19		
+e0c43a2b9f49f59c3278d32de6895763	NASIC	456199	All Other Health and Personal Care Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+d6c3688b059279e185a1bf5704211474	NASIC	456191	Food (Health) Supplement Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+1a360daa4f5669d21a1f59759b6106f0	NASIC	456130	Optical Goods Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+9d8a5c2d5627f12f931924c26db8b003	NASIC	456120	Cosmetics, Beauty Supplies, and Perfume Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+d2438e7851cad9ac6a11cb448065c8d7	NASIC	456110	Pharmacies and Drug Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+0e7c80a9c757cb0022082f7072f8f4c1	NASIC	455219	All Other General Merchandise Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+38fdffb5de0e3b038834ebc0b7b93b2c	NASIC	455211	Warehouse Clubs and Supercenters 	current	2024-12-19		kds_adm	2024-12-19		
+690ee7e86cccc982d5cd63bc06483205	NASIC	455110	Department Stores 	current	2024-12-19		kds_adm	2024-12-19		
+0568fb31237941b4e9d34553b041dfcf	NASIC	449210	Electronics and Appliance Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+243328f0652c794a204b125b75d1048f	NASIC	449129	All Other Home Furnishings Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+e613744795abce7cfc0f0f4a6710cdfc	NASIC	449122	Window Treatment Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+25d65fa76f04d537a2ad97ceb5581a6c	NASIC	445320	Beer, Wine, and Liquor Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+e6c93bf0a85f8a65f93b21be15dea4fa	NASIC	445298	All Other Specialty Food Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+3efd262ab7063f199c53325ddac2ec7c	NASIC	445292	Confectionery and Nut Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+5d350a6f4a0c2c60b8d24f7f66afabfb	NASIC	445291	Baked Goods Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+56aad41429fecdb61243590380906665	NASIC	445250	Fish and Seafood Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+4fecf2b89110ad1e7ab63923e899307e	NASIC	445240	Meat Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+b944da8fc692fca64a0171d5acb0fe8c	NASIC	445230	Fruit and Vegetable Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+7737ddd960d5a556635c28d3e5a61931	NASIC	445132	Vending Machine Operators 	current	2024-12-19		kds_adm	2024-12-19		
+755aa30ff2f58becf50140a6fcdbf640	NASIC	445131	Convenience Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+54481d4135f2fcc099b9fea9dee969a2	NASIC	445110	Supermarkets and Other Grocery Retailers (except Convenience Retailers) 	current	2024-12-19		kds_adm	2024-12-19		
+ff92e6f5c50d059c14fd2cdee9c4a783	NASIC	444240	Nursery, Garden Center, and Farm Supply Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+549d811aebe373009046ab2b3003e528	NASIC	444230	Outdoor Power Equipment Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+fac2b79c1bd19847bf578be1abe46219	NASIC	444180	Other Building Material Dealers 	current	2024-12-19		kds_adm	2024-12-19		
+1dcd3eb95eeff8d21b93860a9acc0bcf	NASIC	444140	Hardware Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+d633d81772c4d27e53951b01b648f451	NASIC	444120	Paint and Wallpaper Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+3d89df8965b169158ee2676146c46e19	NASIC	444110	Home Centers 	current	2024-12-19		kds_adm	2024-12-19		
+9e61d767fbb9c2a1786be972497087de	NASIC	441340	Tire Dealers 	current	2024-12-19		kds_adm	2024-12-19		
+074663c254dbd27bbe42bce327675821	NASIC	441330	Automotive Parts and Accessories Retailers 	current	2024-12-19		kds_adm	2024-12-19		
+c7c4b532c8df675e8c0b9091360c6401	NASIC	441227	Motorcycle, ATV, and All Other Motor Vehicle Dealers 	current	2024-12-19		kds_adm	2024-12-19		
+e5aa64c13e6da5ba321e9323cb3243d5	NASIC	441222	Boat Dealers 	current	2024-12-19		kds_adm	2024-12-19		
+b869a83aca7e0529abe654d25327c4ce	NASIC	441210	Recreational Vehicle Dealers 	current	2024-12-19		kds_adm	2024-12-19		
+ce7f4a464ee26746b6492ae7b62a96c8	NASIC	441120	Used Car Dealers 	current	2024-12-19		kds_adm	2024-12-19		
+aaee60bad081811eb069f3ed0116152f	NASIC	441110	New Car Dealers 	current	2024-12-19		kds_adm	2024-12-19		
+664d64465f456e0e8235c762ae850843	NASIC	425120	Wholesale Trade Agents and Brokers 	current	2024-12-19		kds_adm	2024-12-19		
+258fdd2d396daa8515a1409e4b721c38	NASIC	424990	Other Miscellaneous Nondurable Goods Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+ad71d4322595ba92acedd79a2c59c878	NASIC	424950	Paint, Varnish, and Supplies Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+2ed98fc8257acfca000302b067919f13	NASIC	424940	Tobacco Product and Electronic Cigarette Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+5bf9dbea85e0e09609ebde35a3cd02e8	NASIC	424930	Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+62c779046a55806609028e566e64e1a8	NASIC	424920	Book, Periodical, and Newspaper Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+9249736dd0ae530fbc05c9c9ea48a778	NASIC	424910	Farm Supplies Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+b1c3377d72598511d3317f583c6cb1e5	NASIC	424820	Wine and Distilled Alcoholic Beverage Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+42d9f14dd818e51d9d8e7b0140aec1a8	NASIC	424810	Beer and Ale Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+fc5b8300344f54df8d078525de64f6ec	NASIC	424720	Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals) 	current	2024-12-19		kds_adm	2024-12-19		
+4b1b3dc1df57bef677f3f3ec9d8c89d6	NASIC	424710	Petroleum Bulk Stations and Terminals 	current	2024-12-19		kds_adm	2024-12-19		
+e4f524fcfbd1cd7a308c7253642727c2	NASIC	424690	Other Chemical and Allied Products Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+d43bbf1cff3b9d41b748e9a6d9318940	NASIC	424610	Plastics Materials and Basic Forms and Shapes Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+e5b4cf97c4d3de94a4019ab62ae18865	NASIC	424590	Other Farm Product Raw Material Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+d318e467d65594c30c925fe364e7e850	NASIC	424520	Livestock Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+a9a9677938a66150d5699f102c9acd0e	NASIC	424510	Grain and Field Bean Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+13d629aa782cac21451dc88cee946e54	NASIC	424490	Other Grocery and Related Products Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+f802fc0a1bb4d51dcaabc317f483be58	NASIC	424480	Fresh Fruit and Vegetable Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+3be43ad2bb5263b9b35c298ca08d1d53	NASIC	424470	Meat and Meat Product Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+1506746da3ce02168997cabeff18c2e7	NASIC	424460	Fish and Seafood Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+1a7114b94cac537979c87e19c5858e6b	NASIC	424450	Confectionery Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+93c6f3cc0ad1d22ce7eb4248faf4707b	NASIC	424440	Poultry and Poultry Product Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+9593395d341390e70881192dc6ee51ac	NASIC	424430	Dairy Product (except Dried or Canned) Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+ab894487cb6b476a7ec2c219a3b38d21	NASIC	424420	Packaged Frozen Food Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+7c90c7f22af5eb9a7d41e8ea4b03893d	NASIC	424410	General Line Grocery Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+79e095d96720129c83460edc8c74cf60	NASIC	424350	Clothing and Clothing Accessories Merchant Wholesalers	current	2024-12-19		kds_adm	2024-12-19		
+2eeb080434411bfaca01318ef6b092de	NASIC	424340	Footwear Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+f76ffb3a5f501f1d1bc32330ae397beb	NASIC	424310	Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+c80dc8fb6ebf54c4c4c381ae59215dd0	NASIC	424210	Drugs and Druggists' Sundries Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+7900c3c4cca1d5bf6011980f1211832b	NASIC	424130	Industrial and Personal Service Paper Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+5d0fd3ca8216f76cb5f586ed65074fda	NASIC	424120	Stationery and Office Supplies Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+d1a26b906a0f28903612babbdff55569	NASIC	424110	Printing and Writing Paper Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+7300f0e081ba1e5620faf6d8b97b59cb	NASIC	423990	Other Miscellaneous Durable Goods Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+99073b69ccdf710c5c61ed36d1e42214	NASIC	423940	Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+3487db6c11a47c60a7bc1e2fc6366c82	NASIC	423930	Recyclable Material Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+64d1d774d4fd8603816804dffbd0e3be	NASIC	423920	Toy and Hobby Goods and Supplies Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+6d7d67c18fbf9b0bba11559f420d19c8	NASIC	423910	Sporting and Recreational Goods and Supplies Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+387019c322326d8be5f9db62ac95cc8f	NASIC	423860	Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+6c53f421885eb50271f66a2a4ec41477	NASIC	423850	Service Establishment Equipment and Supplies Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+15e52e7bac26ddd82e276c00cf5885aa	NASIC	423840	Industrial Supplies Merchant Wholesalers	current	2024-12-19		kds_adm	2024-12-19		
+0c72ad784f99ae6b2b34dd22c8676e5c	NASIC	423830	Industrial Machinery and Equipment Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+324ce345b5a56a71a05cf1c1f141e9b6	NASIC	423820	Farm and Garden Machinery and Equipment Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+ad393ae462ba562e25b711f2a30123fc	NASIC	423810	Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+550ef4fe3645fc43149349c5c9908c56	NASIC	423740	Refrigeration Equipment and Supplies Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+49838fb9ea6846e8a7d29ed372939218	NASIC	423730	Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+ed4a56c0f4eecccc0aa6ba1cb8226a56	NASIC	423720	Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+7d6c69b61b4e9dd8a02a1c1a0ca558ee	NASIC	423710	Hardware Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+fc9d44301477c91a8aedcb03650a6467	NASIC	423690	Other Electronic Parts and Equipment Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+5d4564ced6ef2ef6d38993d04c23a2ce	NASIC	423620	Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+79e0b2476778faa80b37726ad77f1286	NASIC	423610	Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+72940f5cb417a53864510d38218ee705	NASIC	423520	Coal and Other Mineral and Ore Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+1979fc943baf19839f0a3516e4d1b382	NASIC	423510	Metal Service Centers and Other Metal Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+369c98e3873873bd724f1b3e80589d31	NASIC	423490	Other Professional Equipment and Supplies Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+85e48aefb8e21432207e380b2741afed	NASIC	423460	Ophthalmic Goods Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+fe76525fdc28baa256250efffd35bbb5	NASIC	423450	Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+89859f04abf7450354dfd45b090a0f20	NASIC	423440	Other Commercial Equipment Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+ddb95d3384e5fdbe98228e063ab99317	NASIC	423430	Computer and Computer Peripheral Equipment and Software Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+4111cd945d0a3bc006c1b73ef0997f13	NASIC	423420	Office Equipment Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+e99229d870dc9894aa68de8021dff1c6	NASIC	423410	Photographic Equipment and Supplies Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+1b6001d31c7a6f63dbf2b6bd1ce18e55	NASIC	423390	Other Construction Material Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+28f9b862b32e03140e00cb247e6bee6c	NASIC	423330	Roofing, Siding, and Insulation Material Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+34e4c302b1f2a788592f16c0904debfb	NASIC	423320	Brick, Stone, and Related Construction Material Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+263b80bcc6b9dbcb2c6d99f793c4c00d	NASIC	423310	Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+24ee6ab43ea8e25ab477ef732213d44a	NASIC	423220	Home Furnishing Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+2e1506369b08f27fb62dea4197b4eaa5	NASIC	423210	Furniture Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+3517fa05ecb1c91a2ac23d0e85f01774	NASIC	423140	Motor Vehicle Parts (Used) Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+d099450228563f837ec69528892decc6	NASIC	423130	Tire and Tube Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+0b0b58e212467f4b0adaa172076aa9da	NASIC	423120	Motor Vehicle Supplies and New Parts Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+22b276bb0a69295875f9a1df957257cf	NASIC	423110	Automobile and Other Motor Vehicle Merchant Wholesalers 	current	2024-12-19		kds_adm	2024-12-19		
+0db2870aa613aa2487216570d34ddecc	NASIC	339999	All Other Miscellaneous Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+b9970da06c4722d916f78dbc7a1efd53	NASIC	339995	Burial Casket Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+02e0e660ce733b282fea4ed8134fc123	NASIC	339994	Broom, Brush, and Mop Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+864aadecbd76a28fe238128219e12c22	NASIC	339993	Fastener, Button, Needle, and Pin Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+cf754bb162b524a40e4688bacea89028	NASIC	339992	Musical Instrument Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+0920036bbd106f932bab1732250ffc50	NASIC	339991	Gasket, Packing, and Sealing Device Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+33539b52cdfeee6539550c7676b66697	NASIC	339950	Sign Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+96fa3534d5d281ee7f6d09715116985a	NASIC	339940	Office Supplies (except Paper) Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+9b9536b705064655461fa2c7a4eec6f3	NASIC	339930	Doll, Toy, and Game Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+c9706fbbef7db110d2ec008f68fb4a11	NASIC	339920	Sporting and Athletic Goods Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+f28ff6a1935c539c3092aa62a04944c3	NASIC	339910	Jewelry and Silverware Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+08dd2207df72c90dc749a1f8d1c20a4a	NASIC	339116	Dental Laboratories 	current	2024-12-19		kds_adm	2024-12-19		
+d33f6c7336c9df9006e95da8387bbf99	NASIC	339115	Ophthalmic Goods Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+f539b2e85d37a5a7a210e8221f07e6c3	NASIC	339114	Dental Equipment and Supplies Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+d0c1eaad177ae456537fdfeb4ec12a60	NASIC	339113	Surgical Appliance and Supplies Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+6fe5e6769c4e2b3fd5b9d01a3d1a890c	NASIC	339112	Surgical and Medical Instrument Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+641f3d9a75b61ae6efe79bfa66743913	NASIC	337920	Blind and Shade Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+96ba4efc5578ad59ebc46bcb88ee4ab5	NASIC	337910	Mattress Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+e80ba6a5d80c150be5757f5a72b48a6c	NASIC	337215	Showcase, Partition, Shelving, and Locker Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+cb042d1fc09cacace460a98c5e9a5ef8	NASIC	337214	Office Furniture (except Wood) Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+158293f7e7f5c79144568b4ffef80632	NASIC	337212	Custom Architectural Woodwork and Millwork Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+80828163a681109ff236b5ef58e20c7f	NASIC	337211	Wood Office Furniture Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+17faa83dabd3a5a34efa46a9d1ca6f49	NASIC	337127	Institutional Furniture Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+bd60ac59fbf2e8357fea064e9bb4ee70	NASIC	337126	Household Furniture (except Wood and Upholstered) Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+cd8cf89201e024749f8e37c52e789909	NASIC	337122	Nonupholstered Wood Household Furniture Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+5d00e17556132b880099b97ca17e4cb3	NASIC	337121	Upholstered Household Furniture Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+b458748ba7d88028ace049dd39ea83ef	NASIC	337110	Wood Kitchen Cabinet and Countertop Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+810b484730ccb5b43fa3de59177b504b	NASIC	336999	All Other Transportation Equipment Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+f93c2c60e9460c6c0954599b00897b68	NASIC	336992	Military Armored Vehicle, Tank, and Tank Component Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+b322d3b4d81004cc078c5af880d57b53	NASIC	336991	Motorcycle, Bicycle, and Parts Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+e8c4ad95274647cc97a84f6b8356d7f4	NASIC	336612	Boat Building 	current	2024-12-19		kds_adm	2024-12-19		
+ba91f1f6c319719d7c250aa52c4ddb33	NASIC	336611	Ship Building and Repairing 	current	2024-12-19		kds_adm	2024-12-19		
+3f18faeace3b1c876269a008862a280b	NASIC	336510	Railroad Rolling Stock Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+03450de168c4ac4e19fb41d1b9e119fa	NASIC	336419	Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+86ef6bed89cd5bf18a3c5501447fbe02	NASIC	336415	Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+389541b9b6d3ca1b9d826fb741ca5fb9	NASIC	336414	Guided Missile and Space Vehicle Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+8d66c38e4e34faa96dbfd4cbcba9cf94	NASIC	336413	Other Aircraft Parts and Auxiliary Equipment Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+8f6aaf5c14149b5714b5b1f8741689f7	NASIC	336412	Aircraft Engine and Engine Parts Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+0682e7396d9fa8adf47ffa02c9dd74f1	NASIC	336411	Aircraft Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+5901b95705314f89962a7ed97e8f7394	NASIC	336390	Other Motor Vehicle Parts Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+7392283ec8d3941e7b42c8ecc8ba49b6	NASIC	336370	Motor Vehicle Metal Stamping	current	2024-12-19		kds_adm	2024-12-19		
+c463c7da860e2ca7e572552c69bb72b8	NASIC	336360	Motor Vehicle Seating and Interior Trim Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+4fd134eb39451fd04a3c99b559e128f7	NASIC	336350	Motor Vehicle Transmission and Power Train Parts Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+4011c603f40aa84fd92708fbde44ac38	NASIC	336340	Motor Vehicle Brake System Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+09b2fb4e44f8a6b1d063e9d80945b634	NASIC	336330	Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+190bca57f459b431b36a392d1d4d9ed3	NASIC	336320	Motor Vehicle Electrical and Electronic Equipment Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+2072f37dd2d235c977368f7d2f9f5c3a	NASIC	336310	Motor Vehicle Gasoline Engine and Engine Parts Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+8b9d0b46b584e3e334b79fb79de6c17a	NASIC	336214	Travel Trailer and Camper Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+baf342480fbbf0addcb70b132bc474b8	NASIC	336213	Motor Home Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+ee67a1ebbee49a1887f5a434f859b4f5	NASIC	336212	Truck Trailer Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+7d33b3da470bdbbed247482577e8f4f9	NASIC	336211	Motor Vehicle Body Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+c44deb395391a4cb6ce4db12fdc1a051	NASIC	336120	Heavy Duty Truck Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+0f469b549b2412dc19b1e1a08303dee3	NASIC	336110	Automobile and Light Duty Motor Vehicle Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+1455e8540965e027951dcbedb4c07197	NASIC	335999	All Other Miscellaneous Electrical Equipment and Component Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+fac2d36735a9ee7893d87d25edcc7bb7	NASIC	335991	Carbon and Graphite Product Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+38e0e3b994136b64f8f14fda905e56b9	NASIC	335932	Noncurrent-Carrying Wiring Device Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+31902765bbfd802a8100bfdeeb5b58a5	NASIC	335931	Current-Carrying Wiring Device Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+6e9721a7b6420f86fc9a18fa6bb8997d	NASIC	335929	Other Communication and Energy Wire Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+679b5ee16f0bdaf465fd6d2226ee1db6	NASIC	335921	Fiber Optic Cable Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+6672c26609d8d201f75a7fecb35f2fc9	NASIC	335910	Battery Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+221c78043ecc1920c075d20af013bf57	NASIC	335314	Relay and Industrial Control Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+1115806493e1eb8f55694fafd560f25e	NASIC	335313	Switchgear and Switchboard Apparatus Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+984c06ca567a40eec3ecd16a1580ba96	NASIC	335312	Motor and Generator Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+f0ce7e83cc6f5bc80072b9d006db4794	NASIC	335311	Power, Distribution, and Specialty Transformer Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+a06ddd469126754fbd801dc11ed751cc	NASIC	335220	Major Household Appliance Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+c5fe704cef727ebb74df1224e5e56d72	NASIC	335210	Small Electrical Appliance Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+60dddc0a2aaeabc0ae881f47d3a84402	NASIC	335139	Electric Lamp Bulb and Other Lighting Equipment Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+246ba36966afc1407dfd05e25e3b488f	NASIC	335132	Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+bc6bd7da5569559ef19c333e069c576a	NASIC	335131	Residential Electric Lighting Fixture Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+e8305958199bc1845a9dea7a43c3c154	NASIC	334610	Manufacturing and Reproducing Magnetic and Optical Media 	current	2024-12-19		kds_adm	2024-12-19		
+ab0689d272e7d412125c3e9849daaad3	NASIC	334519	Other Measuring and Controlling Device Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+7139daf9e76956e5b95435382f5e264b	NASIC	334517	Irradiation Apparatus Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+5acb8d61f5a6c0c09bb7ddb0214c5fd1	NASIC	334516	Analytical Laboratory Instrument Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+188cb4c60494447520b94eb325f0b5ed	NASIC	334515	Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals 	current	2024-12-19		kds_adm	2024-12-19		
+d50204182021f41912d2c0636393a115	NASIC	334514	Totalizing Fluid Meter and Counting Device Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+d1e29baeac46cd2b5d12a4e5a25d2c36	NASIC	334513	Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables 	current	2024-12-19		kds_adm	2024-12-19		
+0e15b9da5c79aea332d9481a13b10659	NASIC	334512	Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use 	current	2024-12-19		kds_adm	2024-12-19		
+5033d7d807df6d982919c8309ceac954	NASIC	334511	Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+f32342cf1ebff37cbe2a7eb08a5f3632	NASIC	334510	Electromedical and Electrotherapeutic Apparatus Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+5a37df1a9f10ce5584f2087af28aefd9	NASIC	334419	Other Electronic Component Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+5b11a137d3d6b91ed28bf60e383e9c77	NASIC	334418	Printed Circuit Assembly (Electronic Assembly) Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+4f5b585981ea91bfa456125fb08787ed	NASIC	334417	Electronic Connector Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+0cee2a0756782a1beef8a70a631f7cdd	NASIC	331313	Alumina Refining and Primary Aluminum Production 	current	2024-12-19		kds_adm	2024-12-19		
+a367ba2c3f12b782269bb456e178110b	NASIC	334416	Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+828fb2bfc35fa9c52a4a5738ae541f99	NASIC	334413	Semiconductor and Related Device Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+ce787b27bc1113e7413bd3789ac8ab3a	NASIC	334412	Bare Printed Circuit Board Manufacturing  	current	2024-12-19		kds_adm	2024-12-19		
+edd103a3c2f53f1173f68558d53c13b1	NASIC	334310	Audio and Video Equipment Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+f5aa97f03367276a8b882044566b8f25	NASIC	334290	Other Communications Equipment Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+7b973b3c2a1eda1facd73d337e32a03b	NASIC	334220	Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+3ef0562609a2a08897d589dc4d8d998a	NASIC	334210	Telephone Apparatus Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+e7f78619a7a18e815ad0af8ee0ff0620	NASIC	334118	Computer Terminal and Other Computer Peripheral Equipment Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+aa8626ef288f08a08e8317c2cb5818a0	NASIC	334112	Computer Storage Device Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+19a9e3153f8346d9a2d030c467741523	NASIC	334111	Electronic Computer Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+628c8e675ced5dc405827ec5840ed34f	NASIC	333998	All Other Miscellaneous General Purpose Machinery Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+0a64a3a32d7dc12fb0004e44d2e9509b	NASIC	333996	Fluid Power Pump and Motor Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+833a3fd1790ba261bc4dc658d2cbdf75	NASIC	333995	Fluid Power Cylinder and Actuator Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+294faebecce056327ecde271dd8a035a	NASIC	333994	Industrial Process Furnace and Oven Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+436b7cf14c7952d74a43dd4e22d463f1	NASIC	333993	Packaging Machinery Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+d254e6fb537266672b5429f4da5255db	NASIC	333992	Welding and Soldering Equipment Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+1435298a66f6dd1e8fe75e3808060b5a	NASIC	333991	Power-Driven Handtool Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+8e83f1da9830139734f5831b4657d12b	NASIC	333924	Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+0acf87486b0be21c7c07129087cb8b93	NASIC	333923	Overhead Traveling Crane, Hoist, and Monorail System Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+134bd30f1236a7e6d2cafcd4c881fa49	NASIC	333922	Conveyor and Conveying Equipment Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+57d2957b0cc1e176f8b52b0527f1ccdc	NASIC	333921	Elevator and Moving Stairway Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+027640e21758bfc6469f5d5a4b21ece8	NASIC	333914	Measuring, Dispensing, and Other Pumping Equipment Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+07566087c195b9339dd170111cff8825	NASIC	333912	Air and Gas Compressor Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+572920f51705b01a1d14f67f2731b1a9	NASIC	333618	Other Engine Equipment Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+1ce4bb3d3aa98f7ad3ce70df02269689	NASIC	333613	Mechanical Power Transmission Equipment Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+e37b3d386e8266b78c3ce6a9b6350526	NASIC	333612	Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+60e7ce90007fb185e55fceca18ccdb6c	NASIC	333611	Turbine and Turbine Generator Set Units Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+633c9ec7e115ffa35591306bc754ac28	NASIC	333519	Rolling Mill and Other Metalworking Machinery Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+941cbec291eeeb1745574755c9c18671	NASIC	333517	Machine Tool Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+21cb44878f1fcab3526ab08873d75253	NASIC	333515	Cutting Tool and Machine Tool Accessory Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+7c84d653a91f3b1d703bc768b7da7747	NASIC	333514	Special Die and Tool, Die Set, Jig, and Fixture Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+98e8915913323693c6c8b69bc03739db	NASIC	333511	Industrial Mold Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+624399cb0469f35fd6f1cbf9816db8d0	NASIC	333415	Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+aa7de2bb75660a0cd5477972d39422a0	NASIC	333414	Heating Equipment (except Warm Air Furnaces) Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+4b4c880362ace1d41e943d7c5beee10f	NASIC	333413	Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+b9b232025d5e73901beb412ab2b83e5b	NASIC	333310	Commercial and Service Industry Machinery Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+eb80df617824ea039d066d26a001e1d6	NASIC	333248	All Other Industrial Machinery Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+e411b126b54278a18007d42e6ffdc49e	NASIC	333243	Sawmill, Woodworking, and Paper Machinery Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+ba36bdff19857faabaaf35e6d980626e	NASIC	333242	Semiconductor Machinery Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+4b3f6f34c7d595e6bb4a2f385fc6accf	NASIC	333241	Food Product Machinery Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+56169df27cc53d1d4f97f20c8f577e63	NASIC	333132	Oil and Gas Field Machinery and Equipment Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+5a5edb0c88aa37c2b23792f9e65ebf28	NASIC	333131	Mining Machinery and Equipment Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+489eb0530be8dab1590d39543db2c12d	NASIC	333120	Construction Machinery Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+2e75bc2669524c8fb102daea083ddf6c	NASIC	333112	Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+2def4ab188d8da10d30c028f5f577294	NASIC	333111	Farm Machinery and Equipment Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+04079bc75564c1b3947f98359f2249dc	NASIC	332999	All Other Miscellaneous Fabricated Metal Product Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+5fa8fb79792ff964a42f0ebee02a9ab3	NASIC	332996	Fabricated Pipe and Pipe Fitting Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+d64db4fd8a665e36647116c0305bb977	NASIC	332994	Small Arms, Ordnance, and Ordnance Accessories Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+66c9480ace25724ef0c871e17ba16fb3	NASIC	332993	Ammunition (except Small Arms) Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+8da43b0cf6283e156be19bb72d009d47	NASIC	332992	Small Arms Ammunition Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+3c1673b9f0afbd537efd4f37eff9e0b3	NASIC	332991	Ball and Roller Bearing Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+f7219c24b189f4653a8a69eeb44e954c	NASIC	332919	Other Metal Valve and Pipe Fitting Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+b3854d64ab27b1b2eba0d8958754a42f	NASIC	332913	Plumbing Fixture Fitting and Trim Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+3b9f75e7d37ac65ebf51d744b25540cc	NASIC	332912	Fluid Power Valve and Hose Fitting Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+bc5f5a68f60a02e4c7a0512c3195b4fc	NASIC	332911	Industrial Valve Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+c321049674fb95408c6edc2c0f58d17a	NASIC	332813	Electroplating, Plating, Polishing, Anodizing, and Coloring 	current	2024-12-19		kds_adm	2024-12-19		
+f79b38a5510472a7e57e2dbd6ee838c2	NASIC	332812	Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers 	current	2024-12-19		kds_adm	2024-12-19		
+bb1a9aa6b7bf207df2cce76895e33f60	NASIC	332811	Metal Heat Treating 	current	2024-12-19		kds_adm	2024-12-19		
+1714d7a7973515cf0d0cc23b7fae8d58	NASIC	332722	Bolt, Nut, Screw, Rivet, and Washer Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+c1b07fba8bfd9f35883eeefb911f4bf2	NASIC	332721	Precision Turned Product Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+45ef01efbdb4a5ac7eb0fc26229515b9	NASIC	332710	Machine Shops	current	2024-12-19		kds_adm	2024-12-19		
+43aacaa510da18fb12b4d6850fd62d41	NASIC	332618	Other Fabricated Wire Product Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+4a8ea8deaec9075efad6516a419501b1	NASIC	332613	Spring Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+f33fc7c6a76d9cb1ea6fd336f000902b	NASIC	332510	Hardware Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+608304b28f7069f9402b4c05e57dd9eb	NASIC	332439	Other Metal Container Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+33fb33fd742e1777cc45164c0ad99b1c	NASIC	332431	Metal Can Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+f82bc6fbe0085f189ec6db128ccc7d21	NASIC	332420	Metal Tank (Heavy Gauge) Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+fe5c668c089744e39162aaa0f1dcf455	NASIC	332410	Power Boiler and Heat Exchanger Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+0b426e92a3701806a6c5786c5c1dd90d	NASIC	332323	Ornamental and Architectural Metal Work Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+e63cd3a34322cdd880c381ce186a0672	NASIC	332322	Sheet Metal Work Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+eace90a0063e7b920542d1e7fd1e4ebc	NASIC	332321	Metal Window and Door Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+02c25e9fe5d70dc7f78194c7399ed926	NASIC	332313	Plate Work Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+36f0e5b8a25a85d3b85783cd1396a624	NASIC	332312	Fabricated Structural Metal Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+8305410f717b47f8f0f4fe283fbd8feb	NASIC	332311	Prefabricated Metal Building and Component Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+649c1c48d75a65b0709c683dec161304	NASIC	332216	Saw Blade and Handtool Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+a81fd6e8605b9f23ecd5fbd0a394b99d	NASIC	332215	Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+6472ee4d1eac010fe8246369078e7596	NASIC	332119	Metal Crown, Closure, and Other Metal Stamping (except Automotive) 	current	2024-12-19		kds_adm	2024-12-19		
+76fbc78cdee39dabf8658ad634207d7e	NASIC	332117	Powder Metallurgy Part Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+032a14c572e6c0adbefa3224c315e504	NASIC	332114	Custom Roll Forming 	current	2024-12-19		kds_adm	2024-12-19		
+fc3f685ac9705af6355e88850686c169	NASIC	332112	Nonferrous Forging 	current	2024-12-19		kds_adm	2024-12-19		
+8c6fb17fedab3d36d942555b41b9aa35	NASIC	332111	Iron and Steel Forging 	current	2024-12-19		kds_adm	2024-12-19		
+57f92892ecc664cfacd36badb5b4d78b	NASIC	331529	Other Nonferrous Metal Foundries (except Die-Casting) 	current	2024-12-19		kds_adm	2024-12-19		
+4b0d0bec2e87cd9c5dc5c40ae5bab08c	NASIC	331524	Aluminum Foundries (except Die-Casting) 	current	2024-12-19		kds_adm	2024-12-19		
+3bd7f2550b1e0b5b77ab9356ec4edad5	NASIC	331523	Nonferrous Metal Die-Casting Foundries 	current	2024-12-19		kds_adm	2024-12-19		
+f9fa63ca84a959eb282b6a514239b2bb	NASIC	331513	Steel Foundries (except Investment) 	current	2024-12-19		kds_adm	2024-12-19		
+c9bc049a409929b5e24e1e94cb5823c0	NASIC	331512	Steel Investment Foundries 	current	2024-12-19		kds_adm	2024-12-19		
+4716eed631b97136f7c108fec59df6e8	NASIC	331511	Iron Foundries 	current	2024-12-19		kds_adm	2024-12-19		
+55caa746a941abc33d323caee9aa8e6e	NASIC	331492	Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) 	current	2024-12-19		kds_adm	2024-12-19		
+b0d1f232e2809bff17db224921d81485	NASIC	331491	Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding 	current	2024-12-19		kds_adm	2024-12-19		
+45c2ce70fb471d8a1cc5cc54078ad344	NASIC	331420	Copper Rolling, Drawing, Extruding, and Alloying	current	2024-12-19		kds_adm	2024-12-19		
+6856e28a6a9fffb9288e6fef4310cd6a	NASIC	331410	Nonferrous Metal (except Aluminum) Smelting and Refining 	current	2024-12-19		kds_adm	2024-12-19		
+81147918e23cd40a3b373ea3a0a3cd7b	NASIC	331318	Other Aluminum Rolling, Drawing, and Extruding 	current	2024-12-19		kds_adm	2024-12-19		
+832f273ada6d3441bb2e7852e50128a7	NASIC	331315	Aluminum Sheet, Plate, and Foil Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+7ccf6829c47a2fd9620cdb82e8f4ad0f	NASIC	331314	Secondary Smelting and Alloying of Aluminum 	current	2024-12-19		kds_adm	2024-12-19		
+d00bb4376e9205ba5b70fe902108f651	NASIC	331221	Rolled Steel Shape Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+997a7f50fbe386e9a6f50d972f3e68e1	NASIC	331210	Iron and Steel Pipe and Tube Manufacturing from Purchased Steel	current	2024-12-19		kds_adm	2024-12-19		
+28ab2ad0ba0a63892144a63631bd64b7	NASIC	331110	Iron and Steel Mills and Ferroalloy Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+3f685d99eb2894e9aa5c40b483ee1613	NASIC	327999	All Other Miscellaneous Nonmetallic Mineral Product Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+e5e9ce4a4ea077a94bb8b50cc5d9ba7e	NASIC	327993	Mineral Wool Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+099d2f9d7694f0de4e76ffc384901a09	NASIC	327992	Ground or Treated Mineral and Earth Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+5bda5e52b3110c8ba335ef462fdbfaf8	NASIC	327991	Cut Stone and Stone Product Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+c094bead8b7692440d4f8557b8f943a5	NASIC	327910	Abrasive Product Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+48531d8cb73b3f056efcb03d3ca49717	NASIC	327420	Gypsum Product Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+8c45fb6a737190a0bfd8b032f5acff7e	NASIC	327410	Lime Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+dbda41bdeff13a44ef72816032643957	NASIC	327390	Other Concrete Product Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+4c6d001d0965084e53d6030e5f90d153	NASIC	327332	Concrete Pipe Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+797691c0a03c7297ff32b27430dc6ecd	NASIC	327331	Concrete Block and Brick Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+bf336db324c26692ab88bee88d8b6eb8	NASIC	327320	Ready-Mix Concrete Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+f824767035a70cf4b6bb20cd7a84c1d6	NASIC	327310	Cement Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+5ff14620e1486a0c80e8110e64bba746	NASIC	327215	Glass Product Manufacturing Made of Purchased Glass 	current	2024-12-19		kds_adm	2024-12-19		
+d951310ace4c9e77505c8e17439f0932	NASIC	327213	Glass Container Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+09d437c4f54db9b9283379697d7f4fbe	NASIC	327212	Other Pressed and Blown Glass and Glassware Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+2aa27ab9b9771b779af1763d791bb13e	NASIC	327211	Flat Glass Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+cf5ea95b6360e5ec585f4f349085d9a0	NASIC	327120	Clay Building Material and Refractories Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+9e0198d5ce6d69184d24e6a9b461f612	NASIC	327110	Pottery, Ceramics, and Plumbing Fixture Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+eb96ed13aba16a70a91621401f368239	NASIC	326299	All Other Rubber Product Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+446fddd76349557b24dcc9af74fd38c7	NASIC	326291	Rubber Product Manufacturing for Mechanical Use 	current	2024-12-19		kds_adm	2024-12-19		
+5c37c389b5b6da9a49e4cd8499bfde5d	NASIC	326220	Rubber and Plastics Hoses and Belting Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+be3d079fd1f53d59c4ed3c5b3cfc16c2	NASIC	326212	Tire Retreading 	current	2024-12-19		kds_adm	2024-12-19		
+5b23c6e573855d7eb4b33032ec66df5b	NASIC	326211	Tire Manufacturing (except Retreading) 	current	2024-12-19		kds_adm	2024-12-19		
+31e62378d36e33343414534535e4fba2	NASIC	326199	All Other Plastics Product Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+daf3eb64d661a0fb22a519d771a15ecc	NASIC	326191	Plastics Plumbing Fixture Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+8fabb2f3f9d8e4327f7fe54c5d8dc400	NASIC	326160	Plastics Bottle Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+dbd99e218a7c2af16262d7d6fffca90a	NASIC	326150	Urethane and Other Foam Product (except Polystyrene) Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+f3cfc73955f6f28bf05d18cc277c8a1c	NASIC	326140	Polystyrene Foam Product Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+3f4d0c44e739fb983fd072a4be5dd6a8	NASIC	326130	Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+8950e13349e7e5f5bb095ffe1155eef9	NASIC	326122	Plastics Pipe and Pipe Fitting Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+f8488c6dcc82e950abc375aff4890b86	NASIC	326121	Unlaminated Plastics Profile Shape Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+c731fecda7799fbe007755415440c647	NASIC	326113	Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+ff7b16a1307e647ead8f933b26ac8f7f	NASIC	326112	Plastics Packaging Film and Sheet (including Laminated) Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+dd63810dd32ff56bd745666daeef695d	NASIC	326111	Plastics Bag and Pouch Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+841c04a095594f88b3a822d47285a3ba	NASIC	325998	All Other Miscellaneous Chemical Product and Preparation Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+b140dd94e6a65a49e33dd3a805ec5586	NASIC	325992	Photographic Film, Paper, Plate, Chemical, and Copy Toner Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+3a7fd2f2f23da65f4dc94f2e9b430c95	NASIC	325991	Custom Compounding of Purchased Resins 	current	2024-12-19		kds_adm	2024-12-19		
+8c89be8e22ab4a43015bf23ac3af4615	NASIC	325920	Explosives Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+59d4f145f6484d97a3cee889ac769161	NASIC	325910	Printing Ink Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+cf5c5f32a853a2cebc9badebc9397f61	NASIC	325620	Toilet Preparation Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+c4e2c4009023622d5f9080b61f5fcfc8	NASIC	325613	Surface Active Agent Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+2a78c2e1194184469598e355c9fc1f18	NASIC	325612	Polish and Other Sanitation Good Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+f071cd91bfde5e82e4975d14b577b57a	NASIC	325611	Soap and Other Detergent Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+b949f0e5f6c794bdc88815cfe4624b04	NASIC	325520	Adhesive Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+f14f4d9412ce44ac4f5e3580b6e1c7b3	NASIC	325510	Paint and Coating Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+ea2f88f1b61f43d637910c99754a30ef	NASIC	325414	Biological Product (except Diagnostic) Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+27c2527eb58bab4a8930e380879177b6	NASIC	325413	In-Vitro Diagnostic Substance Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+67fc657bc031cdb768c89a5a2bbbd474	NASIC	325412	Pharmaceutical Preparation Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+a477496c8e46dd5ba8356f5605f1eaed	NASIC	325411	Medicinal and Botanical Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+0f1af8eecfa9548f29652e3f2c616afa	NASIC	325320	Pesticide and Other Agricultural Chemical Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+d318e3e8ce9dab12ff423248e66db4cc	NASIC	325315	Compost Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+9956e1d226f37b4de793baf7885e2252	NASIC	325314	Fertilizer (Mixing Only) Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+7151d7018f7298eab80113dd6ebb52a0	NASIC	325312	Phosphatic Fertilizer Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+b40c26bf91ef5f75062dce4703e44b7a	NASIC	325311	Nitrogenous Fertilizer Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+f624cd01be83ff606f7d18a529222a58	NASIC	325220	Artificial and Synthetic Fibers and Filaments Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+5d19ad590c1e593048ac104fb398efc5	NASIC	325212	Synthetic Rubber Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+fba6e3c2c0c8ba5a794cd0f90619425b	NASIC	325211	Plastics Material and Resin Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+db5680fc7de7024af0b737c52a88c7e8	NASIC	325199	All Other Basic Organic Chemical Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+476f4c4dfa108a91ebcffda7ce48332c	NASIC	325194	Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+37df6d67455ad75c22fd9c6790f8d2f0	NASIC	325193	Ethyl Alcohol Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+cdc073237ee06a3ca4115c008980703d	NASIC	325180	Other Basic Inorganic Chemical Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+d78c84485b34e404873a6c2bf511061f	NASIC	325130	Synthetic Dye and Pigment Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+778b4f1b07bc75227122c63e6aff5441	NASIC	325120	Industrial Gas Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+ed89c9839d1c63619244f5442cafec11	NASIC	325110	Petrochemical Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+83c7bfd4894776679a624bde6893a2fd	NASIC	324199	All Other Petroleum and Coal Products Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+0e8630e46ac3103ae745eeb5559adb06	NASIC	324191	Petroleum Lubricating Oil and Grease Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+99a662563635eb758b01a8eef3be7899	NASIC	324122	Asphalt Shingle and Coating Materials Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+730e326171cb8acf0ee097d69b536fcc	NASIC	324121	Asphalt Paving Mixture and Block Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+76b08fbf21132bdb7824f3e54a1f04fc	NASIC	324110	Petroleum Refineries	current	2024-12-19		kds_adm	2024-12-19		
+d6c087be9c6d43dd87179448cd660d5c	NASIC	323120	Support Activities for Printing	current	2024-12-19		kds_adm	2024-12-19		
+eaaeaccfedc7914dd0d5a7a6a7a2512b	NASIC	323117	Books Printing 	current	2024-12-19		kds_adm	2024-12-19		
+4100299f665eaa232532058b972411d4	NASIC	323113	Commercial Screen Printing 	current	2024-12-19		kds_adm	2024-12-19		
+1d8a466776be85d9287a9cb4fcba01bc	NASIC	323111	Commercial Printing (except Screen and Books) 	current	2024-12-19		kds_adm	2024-12-19		
+881ebef1ec4909d85827ff9dc4172be4	NASIC	322299	All Other Converted Paper Product Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+890a5dbb915a51d07841524697d7b2f4	NASIC	322291	Sanitary Paper Product Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+00805a7daccb7a240be622c32e1b0795	NASIC	322230	Stationery Product Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+b0ba014b4788dd94e9b822065d22ce36	NASIC	322220	Paper Bag and Coated and Treated Paper Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+158f32f98771f2623378e9bd30bd43fa	NASIC	322219	Other Paperboard Container Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+30a0e9774fb6e62baba217d35f937dc7	NASIC	322212	Folding Paperboard Box Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+3048980bd306e35840349413ca22f3a3	NASIC	322211	Corrugated and Solid Fiber Box Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+6dd777480dea4322d3b2b8cdae5320ec	NASIC	322130	Paperboard Mills 	current	2024-12-19		kds_adm	2024-12-19		
+4e0c7ce22b1fe8159485ee2331cb77a1	NASIC	322120	Paper Mills 	current	2024-12-19		kds_adm	2024-12-19		
+01ed3fd22526c36ca606547aa5e17285	NASIC	322110	Pulp Mills 	current	2024-12-19		kds_adm	2024-12-19		
+cf21d3c3ee86c808d54f48c1ec0ccfc1	NASIC	321999	All Other Miscellaneous Wood Product Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+64f51833136a8f281685487cc7c15898	NASIC	321992	Prefabricated Wood Building Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+a8f1a993dccabee50e6174efa4a5ff6b	NASIC	321991	Manufactured Home (Mobile Home) Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+35e8aa80a10aad77c367c4832c8dcafa	NASIC	321920	Wood Container and Pallet Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+5470a99e75ceaef250b42d7d09703d79	NASIC	321918	Other Millwork (including Flooring) 	current	2024-12-19		kds_adm	2024-12-19		
+8d1b3f76eb5d0fef6a2a7b7c7bcaca18	NASIC	321912	Cut Stock, Resawing Lumber, and Planing 	current	2024-12-19		kds_adm	2024-12-19		
+f9ecb8536a702149dfa5440e3926dea3	NASIC	321911	Wood Window and Door Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+f4c9bbb2307f2a10aea005e125a90b11	NASIC	321219	Reconstituted Wood Product Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+22b5a0db1e46864303ff24b4458b32ff	NASIC	321215	Engineered Wood Member Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+9fc265501d4cef743a881a6d9a4c6df3	NASIC	321212	Softwood Veneer and Plywood Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+722ab4b8cae5bb35a162e037222c2c35	NASIC	321211	Hardwood Veneer and Plywood Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+8f47d57299475fcd1ce8bf50c46fe105	NASIC	321114	Wood Preservation 	current	2024-12-19		kds_adm	2024-12-19		
+2490dc9c90f19ff5e0bebcf2630127ff	NASIC	321113	Sawmills 	current	2024-12-19		kds_adm	2024-12-19		
+967a50e9ba9206637b1e005e712b92fe	NASIC	316990	Other Leather and Allied Product Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+f711b30ec39863f845799ba43082037c	NASIC	316210	Footwear Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+63720df7c0361d0c3ade527ecb7d0733	NASIC	316110	Leather and Hide Tanning and Finishing	current	2024-12-19		kds_adm	2024-12-19		
+5942fcd30cbbb36f46d5176cf22e96aa	NASIC	315990	Apparel Accessories and Other Apparel Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+636e21c31439628ca567efcd97387a4f	NASIC	315250	Cut and Sew Apparel Manufacturing (except Contractors) 	current	2024-12-19		kds_adm	2024-12-19		
+75cc854749d840d3ddee968d19266de0	NASIC	315210	Cut and Sew Apparel Contractors 	current	2024-12-19		kds_adm	2024-12-19		
+0eab5a9f34ef2ae2c9c518e12412349b	NASIC	315120	Apparel Knitting Mills	current	2024-12-19		kds_adm	2024-12-19		
+0c6fe8d3e22c50929b30c886a1dc92c1	NASIC	314999	All Other Miscellaneous Textile Product Mills 	current	2024-12-19		kds_adm	2024-12-19		
+9d25a99d28db03a75af2eff86c695a4d	NASIC	314994	Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills 	current	2024-12-19		kds_adm	2024-12-19		
+3f9f5a00313d6984e1e9610a801bd689	NASIC	314910	Textile Bag and Canvas Mills 	current	2024-12-19		kds_adm	2024-12-19		
+4aa404e030c75bb7421c43c93ffcc87f	NASIC	314120	Curtain and Linen Mills	current	2024-12-19		kds_adm	2024-12-19		
+61b112b65f07c395ce45c36047daf7c3	NASIC	314110	Carpet and Rug Mills	current	2024-12-19		kds_adm	2024-12-19		
+8a8e2a8bee2f8c77544217a48a0b4491	NASIC	313320	Fabric Coating Mills	current	2024-12-19		kds_adm	2024-12-19		
+53e11c2b092981581c70894c249b775d	NASIC	313310	Textile and Fabric Finishing Mills 	current	2024-12-19		kds_adm	2024-12-19		
+7aebea8913f59574444888d9c848447f	NASIC	313240	Knit Fabric Mills	current	2024-12-19		kds_adm	2024-12-19		
+88a146b9f823bd707697c03e3c1c8755	NASIC	313230	Nonwoven Fabric Mills	current	2024-12-19		kds_adm	2024-12-19		
+4019e2c7dc50539520604fcf6900fd70	NASIC	313220	Narrow Fabric Mills and Schiffli Machine Embroidery	current	2024-12-19		kds_adm	2024-12-19		
+a594104c9d64250f06f6a7ecd3c52e60	NASIC	313210	Broadwoven Fabric Mills	current	2024-12-19		kds_adm	2024-12-19		
+25271680b1eeb8df90d839b066688e94	NASIC	313110	Fiber, Yarn, and Thread Mills 	current	2024-12-19		kds_adm	2024-12-19		
+441127ec77cbdf7c2878841128f350c9	NASIC	312230	Tobacco Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+4fdaa5b3b9112487dc6afdc46cd60793	NASIC	312140	Distilleries 	current	2024-12-19		kds_adm	2024-12-19		
+fe64ddad49e5244c008be95d1f6ffd72	NASIC	312130	Wineries 	current	2024-12-19		kds_adm	2024-12-19		
+9fc801067a7f01ea592a7f5aca50950e	NASIC	312120	Breweries	current	2024-12-19		kds_adm	2024-12-19		
+9021d7e5db5ea4f2d45de661529c6dcb	NASIC	312113	Ice Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+0f87ab10cba07a6654bffccdc7949c6b	NASIC	312112	Bottled Water Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+99173a882f13dfae892f503f0e8a085d	NASIC	312111	Soft Drink Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+451924bba87f924c17076ce98cf693d6	NASIC	311999	All Other Miscellaneous Food Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+85cf16892094622f990c9c210c3dc65a	NASIC	311991	Perishable Prepared Food Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+3b6718c245e4ac2ae88a56e90777b1b2	NASIC	311942	Spice and Extract Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+d55c83e9b1c60e36c749de27611cf482	NASIC	311941	Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+b4da02d8c5b194cbf8b700b519d70318	NASIC	311930	Flavoring Syrup and Concentrate Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+51b881baad86f306ced0badf0e29afe2	NASIC	311920	Coffee and Tea Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+45893d67b710fa3b3f16b6e5b2e3331b	NASIC	311919	Other Snack Food Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+fee904ae3c25d8e6c1077fab45a0320b	NASIC	311911	Roasted Nuts and Peanut Butter Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+d6e7743fd9b575d93b3f20a845f5dc25	NASIC	311830	Tortilla Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+46a56a7a54d408d4822b2a639ea9d4f8	NASIC	311824	Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour 	current	2024-12-19		kds_adm	2024-12-19		
+71dbc34f5519897549e3c67d9cb71cfe	NASIC	311821	Cookie and Cracker Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+db7c0260dc5ecfa2116a667052e233bb	NASIC	311813	Frozen Cakes, Pies, and Other Pastries Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+e581dfec8db05df35c1bb09d0a453647	NASIC	311812	Commercial Bakeries 	current	2024-12-19		kds_adm	2024-12-19		
+f177e2ced83f137abfb64600cdfddff4	NASIC	311811	Retail Bakeries 	current	2024-12-19		kds_adm	2024-12-19		
+04ce3f6af7f0e7949a45083651c4d0a7	NASIC	311710	Seafood Product Preparation and Packaging	current	2024-12-19		kds_adm	2024-12-19		
+e48cc3cfae39617dd6e3fefec9ce1bf4	NASIC	311615	Poultry Processing 	current	2024-12-19		kds_adm	2024-12-19		
+f55ab6fe6fd70a60f448b92e46dce532	NASIC	311613	Rendering and Meat Byproduct Processing 	current	2024-12-19		kds_adm	2024-12-19		
+abdc1eec23fba0855c0bf022621f136c	NASIC	311612	Meat Processed from Carcasses 	current	2024-12-19		kds_adm	2024-12-19		
+094193c53536b6fd110630208b85d272	NASIC	311611	Animal (except Poultry) Slaughtering 	current	2024-12-19		kds_adm	2024-12-19		
+167f72c71ebe7a22c02d54d1915a86be	NASIC	311520	Ice Cream and Frozen Dessert Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+8b71836fc83b34b243f9dd6dc55d82fb	NASIC	311514	Dry, Condensed, and Evaporated Dairy Product Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+432a4cd8e44c816b76395e208b09e142	NASIC	311513	Cheese Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+06e1997d0ed630c920568628c2fe258c	NASIC	311512	Creamery Butter Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+2fee023e536779344e18943417853bea	NASIC	311511	Fluid Milk Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+86fcc15c84fc407c6a3b4c0bd36eb4a0	NASIC	311423	Dried and Dehydrated Food Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+4e69ad595a50115433412f1782bf2bde	NASIC	311422	Specialty Canning 	current	2024-12-19		kds_adm	2024-12-19		
+ae367f4f769f74fb5381329a98c6cdbd	NASIC	311421	Fruit and Vegetable Canning 	current	2024-12-19		kds_adm	2024-12-19		
+561cf6ea105997f084d31c8210ae6035	NASIC	311412	Frozen Specialty Food Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+86c4142c6921253c89ed993a3beaaa61	NASIC	311411	Frozen Fruit, Juice, and Vegetable Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+9a218df5f59be448ce53815a72fc312b	NASIC	311352	Confectionery Manufacturing from Purchased Chocolate 	current	2024-12-19		kds_adm	2024-12-19		
+42c0306b23e2675a011a684ac0fc56ab	NASIC	311351	Chocolate and Confectionery Manufacturing from Cacao Beans 	current	2024-12-19		kds_adm	2024-12-19		
+34c13e692d19e30e09ec8897b4a6f9dc	NASIC	311340	Nonchocolate Confectionery Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+9dcd249684bffd190d99d8875cb37e86	NASIC	311314	Cane Sugar Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+ce863ccaaf1033ac9ba730ef0ca492ed	NASIC	311313	Beet Sugar Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+db7c5c990be4afdd486fe3e0bf33840d	NASIC	311230	Breakfast Cereal Manufacturing	current	2024-12-19		kds_adm	2024-12-19		
+e1325a838478ebfe923e193879c031c5	NASIC	311225	Fats and Oils Refining and Blending 	current	2024-12-19		kds_adm	2024-12-19		
+ad1d759e499cc227f2d1742daa09ca4a	NASIC	311224	Soybean and Other Oilseed Processing 	current	2024-12-19		kds_adm	2024-12-19		
+705c155e7615c71ec8e42274f0d7d28f	NASIC	311221	Wet Corn Milling and Starch Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+07b7e7530bc3755005467d528c4aa92a	NASIC	311213	Malt Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+ea4e3405cc3724ce4b9ebc88952bdb44	NASIC	311212	Rice Milling 	current	2024-12-19		kds_adm	2024-12-19		
+758df2876343e9701267a72b3cc32ef4	NASIC	311211	Flour Milling 	current	2024-12-19		kds_adm	2024-12-19		
+f20db7b2884203f635b5133c7cd6db7d	NASIC	311119	Other Animal Food Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+0a17605f329fde8ae821b8098d4cf134	NASIC	311111	Dog and Cat Food Manufacturing 	current	2024-12-19		kds_adm	2024-12-19		
+5d25b9a02ab4ba0d60d22cd6d4f0647f	NASIC	238990	All Other Specialty Trade Contractors	current	2024-12-19		kds_adm	2024-12-19		
+3360e1dc6b6b7a1393c6d267b7e5540b	NASIC	238910	Site Preparation Contractors	current	2024-12-19		kds_adm	2024-12-19		
+0b39f73ad9cf4ea7fa479d0f9b230a5e	NASIC	238390	Other Building Finishing Contractors	current	2024-12-19		kds_adm	2024-12-19		
+2d2ff1d91ce388e96b34b5fe2688f3d9	NASIC	238350	Finish Carpentry Contractors	current	2024-12-19		kds_adm	2024-12-19		
+1ee60e50dedd49de7db15063695769c6	NASIC	238340	Tile and Terrazzo Contractors	current	2024-12-19		kds_adm	2024-12-19		
+e4e6e72d5d0bd3fab6e7ff74737ef96b	NASIC	238330	Flooring Contractors	current	2024-12-19		kds_adm	2024-12-19		
+28b662a7846b059829a6b52a45f736ae	NASIC	238320	Painting and Wall Covering Contractors	current	2024-12-19		kds_adm	2024-12-19		
+e30584c09fb10a51b4ef34bf34289517	NASIC	238310	Drywall and Insulation Contractors 	current	2024-12-19		kds_adm	2024-12-19		
+bb9011a99aefc0af856368e7ce074b2a	NASIC	238290	Other Building Equipment Contractors 	current	2024-12-19		kds_adm	2024-12-19		
+f1c407d5be21cdd4ade12927a4af5200	NASIC	238220	Plumbing, Heating, and Air-Conditioning Contractors 	current	2024-12-19		kds_adm	2024-12-19		
+98063f98a0f0232f44c5289b83d2eadb	NASIC	238210	Electrical Contractors and Other Wiring Installation Contractors	current	2024-12-19		kds_adm	2024-12-19		
+2fe21c7b6c6e2cc7cf43adc20bcd0a6b	NASIC	238190	Other Foundation, Structure, and Building Exterior Contractors 	current	2024-12-19		kds_adm	2024-12-19		
+38b7aa0f17b9ed0f20407b61973c3415	NASIC	238170	Siding Contractors 	current	2024-12-19		kds_adm	2024-12-19		
+13b282ad46ac17dbebc0e60652a61120	NASIC	238160	Roofing Contractors 	current	2024-12-19		kds_adm	2024-12-19		
+5c0607b2701eb32aabe12ef4d0f86d15	NASIC	238150	Glass and Glazing Contractors 	current	2024-12-19		kds_adm	2024-12-19		
+cf5c75fe77b6bf4913782ad8bb26146e	NASIC	238140	Masonry Contractors 	current	2024-12-19		kds_adm	2024-12-19		
+444575a6871878b59a36d5673b934c81	NASIC	238130	Framing Contractors 	current	2024-12-19		kds_adm	2024-12-19		
+050bcc6b0f2eb56c3db5e57d4e8f6cb2	NASIC	238120	Structural Steel and Precast Concrete Contractors 	current	2024-12-19		kds_adm	2024-12-19		
+91e64b8161cf9633f40224930158aa83	NASIC	238110	Poured Concrete Foundation and Structure Contractors 	current	2024-12-19		kds_adm	2024-12-19		
+f7151b6a96d6ed403a32003b14b515d7	NASIC	237990	Other Heavy and Civil Engineering Construction 	current	2024-12-19		kds_adm	2024-12-19		
+d62087a69ddbb1f9db91536dff8a534b	NASIC	237310	Highway, Street, and Bridge Construction 	current	2024-12-19		kds_adm	2024-12-19		
+7d44626cc2e5ea3bf9340f502972abd1	NASIC	237210	Land Subdivision 	current	2024-12-19		kds_adm	2024-12-19		
+093b074fc0f9d0ca0fba4f944bb2140a	NASIC	237130	Power and Communication Line and Related Structures Construction 	current	2024-12-19		kds_adm	2024-12-19		
+f53efb310945939fa9d76873b617769c	NASIC	237120	Oil and Gas Pipeline and Related Structures Construction 	current	2024-12-19		kds_adm	2024-12-19		
+eb76e5ac93991a01ef15fbabaa7ba6a8	NASIC	237110	Water and Sewer Line and Related Structures Construction 	current	2024-12-19		kds_adm	2024-12-19		
+ccb4a53822d2467b0d920d1e1c3380c3	NASIC	236220	Commercial and Institutional Building Construction 	current	2024-12-19		kds_adm	2024-12-19		
+b8c59cef71626ee141a55a8e63551867	NASIC	236210	Industrial Building Construction 	current	2024-12-19		kds_adm	2024-12-19		
+e3b11a0c7d49396b5b7c443585f011a2	NASIC	236118	Residential Remodelers 	current	2024-12-19		kds_adm	2024-12-19		
+9e2692740c8dad1de682fdcd828eebf2	NASIC	236117	New Housing For-Sale Builders 	current	2024-12-19		kds_adm	2024-12-19		
+49b2e04ccf08c0ab49159a1c8bb6ac23	NASIC	236116	New Multifamily Housing Construction (except For-Sale Builders) 	current	2024-12-19		kds_adm	2024-12-19		
+9a8f39d7b929b03a9494eabbde52b544	NASIC	236115	New Single-Family Housing Construction (except For-Sale Builders) 	current	2024-12-19		kds_adm	2024-12-19		
+d9d2ee6989d149a9249d26d97eed095b	NASIC	221330	Steam and Air-Conditioning Supply 	current	2024-12-19		kds_adm	2024-12-19		
+7b9ab7423a43dfb13aa9d79d029fccd8	NASIC	221320	Sewage Treatment Facilities 	current	2024-12-19		kds_adm	2024-12-19		
+fba22cd984bb4c9a88a812d15d3e1058	NASIC	221310	Water Supply and Irrigation Systems 	current	2024-12-19		kds_adm	2024-12-19		
+dc8920b54783261135cbc4354fdeb5af	NASIC	221210	Natural Gas Distribution 	current	2024-12-19		kds_adm	2024-12-19		
+0f57f379cdc4a8a3c16b8e379f77c8b4	NASIC	221122	Electric Power Distribution 	current	2024-12-19		kds_adm	2024-12-19		
+40fce0d588e29abe4ca80aa7f8351811	NASIC	221121	Electric Bulk Power Transmission and Control 	current	2024-12-19		kds_adm	2024-12-19		
+f23415bdab17548462034c36bc8da547	NASIC	221118	Other Electric Power Generation 	current	2024-12-19		kds_adm	2024-12-19		
+68104b363a431232386bcc3c0d81d8ab	NASIC	221117	Biomass Electric Power Generation 	current	2024-12-19		kds_adm	2024-12-19		
+b47b1e042992d0dbce599c7e4c8f1c6c	NASIC	221116	Geothermal Electric Power Generation 	current	2024-12-19		kds_adm	2024-12-19		
+c4132fe81933203240a722129c29e1f6	NASIC	221115	Wind Electric Power Generation 	current	2024-12-19		kds_adm	2024-12-19		
+1f43f992dad5d0073483fdc2851e8b39	NASIC	221114	Solar Electric Power Generation 	current	2024-12-19		kds_adm	2024-12-19		
+bed0303dd9685666f8a339775691625d	NASIC	221113	Nuclear Electric Power Generation 	current	2024-12-19		kds_adm	2024-12-19		
+d6eb7da35600b03bc869fa73519b7def	NASIC	221112	Fossil Fuel Electric Power Generation 	current	2024-12-19		kds_adm	2024-12-19		
+600ba4be82a15482d36dc2e646e96c9c	NASIC	221111	Hydroelectric Power Generation 	current	2024-12-19		kds_adm	2024-12-19		
+1a3b57656e29fd53145bf99a19b3ede7	NASIC	213115	Support Activities for Nonmetallic Minerals (except Fuels) Mining 	current	2024-12-19		kds_adm	2024-12-19		
+a2eddc7048512f9773f44f97a4f0d53b	NASIC	213114	Support Activities for Metal Mining 	current	2024-12-19		kds_adm	2024-12-19		
+6bf384159c5f7be8d77ca5e4fcf145cb	NASIC	213113	Support Activities for Coal Mining 	current	2024-12-19		kds_adm	2024-12-19		
+6dab40db1d6c260b7d6be3febf5d3574	NASIC	213112	Support Activities for Oil and Gas Operations 	current	2024-12-19		kds_adm	2024-12-19		
+be7fdfc6d32b12c1acafe3c91114bbd3	NASIC	213111	Drilling Oil and Gas Wells	current	2024-12-19		kds_adm	2024-12-19		
+18ca4124e12429cb0354ae1d5a541b4b	NASIC	212390	Other Nonmetallic Mineral Mining and Quarrying 	current	2024-12-19		kds_adm	2024-12-19		
+18f089e8628faeafc6d950c421e370b7	NASIC	212323	Kaolin, Clay, and Ceramic and Refractory Minerals Mining 	current	2024-12-19		kds_adm	2024-12-19		
+09cabd6768272ef8648b25874eef1a52	NASIC	212322	Industrial Sand Mining 	current	2024-12-19		kds_adm	2024-12-19		
+a34175fd36436d65f7b47d59814d4f1d	NASIC	212321	Construction Sand and Gravel Mining 	current	2024-12-19		kds_adm	2024-12-19		
+141775644da4cb2328621f0e9755bcdf	NASIC	212319	Other Crushed and Broken Stone Mining and Quarrying 	current	2024-12-19		kds_adm	2024-12-19		
+0ee58dfd09cff0468fd6252d37e3c5dc	NASIC	212313	Crushed and Broken Granite Mining and Quarrying 	current	2024-12-19		kds_adm	2024-12-19		
+e492c03224aabbf61f97a2ba21670123	NASIC	212312	Crushed and Broken Limestone Mining and Quarrying 	current	2024-12-19		kds_adm	2024-12-19		
+f175ef4fb802f5373daeff01d34a4362	NASIC	212311	Dimension Stone Mining and Quarrying 	current	2024-12-19		kds_adm	2024-12-19		
+bd92b743f88afe8999d69c0cc8fa97df	NASIC	212290	Other Metal Ore Mining 	current	2024-12-19		kds_adm	2024-12-19		
+e64847a04dfade9763c177772ebfcf7d	NASIC	212230	Copper, Nickel, Lead, and Zinc Mining 	current	2024-12-19		kds_adm	2024-12-19		
+5bb792e203a79e6a35a2e788367d5e34	NASIC	212220	Gold Ore and Silver Ore Mining 	current	2024-12-19		kds_adm	2024-12-19		
+be045f407f7f7865f7abfd7acd3c8a51	NASIC	212210	Iron Ore Mining	current	2024-12-19		kds_adm	2024-12-19		
+ac315aa608111c7a6bba459c53714f82	NASIC	212115	Underground Coal Mining 	current	2024-12-19		kds_adm	2024-12-19		
+632bbaa521b3f4d69c57ce7d2282f447	NASIC	212114	Surface Coal Mining 	current	2024-12-19		kds_adm	2024-12-19		
+df0a4ab45eea6dbb1bb37a6350c7d986	NASIC	211130	Natural Gas Extraction 	current	2024-12-19		kds_adm	2024-12-19		
+7eb7d26f333b8ec2cf8345fc7632f031	NASIC	211120	Crude Petroleum Extraction 	current	2024-12-19		kds_adm	2024-12-19		
+f429d684ade48a78d28bf2e1792fec15	NASIC	115310	Support Activities for Forestry	current	2024-12-19		kds_adm	2024-12-19		
+bb4555e0257ef3c8ab18189c7a9acbfd	NASIC	115210	Support Activities for Animal Production	current	2024-12-19		kds_adm	2024-12-19		
+876878065f5c87846d6218d4a6bfb1eb	NASIC	115116	Farm Management Services 	current	2024-12-19		kds_adm	2024-12-19		
+98ab0ab5187eece5ee0da1fa5ac32286	NASIC	115115	Farm Labor Contractors and Crew Leaders 	current	2024-12-19		kds_adm	2024-12-19		
+090c42ec672ff2656ab67e2f94824b22	NASIC	115114	Postharvest Crop Activities (except Cotton Ginning) 	current	2024-12-19		kds_adm	2024-12-19		
+e321d857e4e63e342f7d5a6e96d7263b	NASIC	115113	Crop Harvesting, Primarily by Machine 	current	2024-12-19		kds_adm	2024-12-19		
+1c3ea8d664d25af3960af0fc299aa08a	NASIC	115112	Soil Preparation, Planting, and Cultivating 	current	2024-12-19		kds_adm	2024-12-19		
+8f87a0d62003d8d026d56819878fafd8	NASIC	115111	Cotton Ginning 	current	2024-12-19		kds_adm	2024-12-19		
+4bc6b28a811039ca0f5d34e0d8f46c98	NASIC	114210	Hunting and Trapping	current	2024-12-19		kds_adm	2024-12-19		
+b03f6b9d4e88542f4c024c441558f88d	NASIC	114119	Other Marine Fishing 	current	2024-12-19		kds_adm	2024-12-19		
+6fb4705705cf5dbd4d76e8760e46a859	NASIC	114112	Shellfish Fishing 	current	2024-12-19		kds_adm	2024-12-19		
+86ecab6a17bdff6ab85e042d92a76640	NASIC	114111	Finfish Fishing 	current	2024-12-19		kds_adm	2024-12-19		
+fb14b40912ae9b9fbd691e71797d77bc	NASIC	113310	Logging 	current	2024-12-19		kds_adm	2024-12-19		
+a9607141968e50aea86b21efe8f97ba2	NASIC	113210	Forest Nurseries and Gathering of Forest Products 	current	2024-12-19		kds_adm	2024-12-19		
+48a606a3ae9b65619406212712858c4d	NASIC	113110	Timber Tract Operations	current	2024-12-19		kds_adm	2024-12-19		
+8e1ddf4417d7987fee55583f903cc5de	NASIC	112990	All Other Animal Production 	current	2024-12-19		kds_adm	2024-12-19		
+f5d0cae169c45e6e869a1ef8fb6b8a07	NASIC	112930	Fur-Bearing Animal and Rabbit Production	current	2024-12-19		kds_adm	2024-12-19		
+cf1b92bbf43dc2412cc3b426483b01d8	NASIC	112920	Horses and Other Equine Production	current	2024-12-19		kds_adm	2024-12-19		
+afb5d67ee9da4a8afda58714efb59c22	NASIC	112910	Apiculture	current	2024-12-19		kds_adm	2024-12-19		
+2b81c37c1fcea529d2183bd837613997	NASIC	112519	Other Aquaculture 	current	2024-12-19		kds_adm	2024-12-19		
+120483e17bf73e87f083198c17e2eba7	NASIC	112512	Shellfish Farming 	current	2024-12-19		kds_adm	2024-12-19		
+314bf4fc7a82f507cfb746c1a47b0226	NASIC	112511	Finfish Farming and Fish Hatcheries 	current	2024-12-19		kds_adm	2024-12-19		
+908a52d41603edfa8d6ff3c477944cd0	NASIC	112420	Goat Farming	current	2024-12-19		kds_adm	2024-12-19		
+b0edd75e2938bb3fb19e538058cc734e	NASIC	112410	Sheep Farming	current	2024-12-19		kds_adm	2024-12-19		
+4bf18feeede156fd0dfe2603d718e90f	NASIC	112390	Other Poultry Production 	current	2024-12-19		kds_adm	2024-12-19		
+9ee0dcf49eed279a08c9c9932299f4fc	NASIC	112340	Poultry Hatcheries	current	2024-12-19		kds_adm	2024-12-19		
+e5212d41001aa9b6ff17527c687fc254	NASIC	112330	Turkey Production	current	2024-12-19		kds_adm	2024-12-19		
+8606c16f728a0d411c371fcefc3f9b41	NASIC	112320	Broilers and Other Meat Type Chicken Production 	current	2024-12-19		kds_adm	2024-12-19		
+06d744896c8d855945ee5af803f7ff60	NASIC	112310	Chicken Egg Production 	current	2024-12-19		kds_adm	2024-12-19		
+d5617ea951c3ca2c645b986303665748	NASIC	112210	Hog and Pig Farming 	current	2024-12-19		kds_adm	2024-12-19		
+62407dfa20c0540e08e6a238acb6d8ba	NASIC	112130	Dual-Purpose Cattle Ranching and Farming 	current	2024-12-19		kds_adm	2024-12-19		
+5bab91f525ebe1f95ccd96051d8ec8ea	NASIC	112120	Dairy Cattle and Milk Production	current	2024-12-19		kds_adm	2024-12-19		
+8a356edd8f39cdf9765d35399918f0bf	NASIC	112112	Cattle Feedlots 	current	2024-12-19		kds_adm	2024-12-19		
+4acacecef3e3263e565f23b856c3e8c2	NASIC	112111	Beef Cattle Ranching and Farming 	current	2024-12-19		kds_adm	2024-12-19		
+d2dc70d09789751e9ce269467899ca43	NASIC	111998	All Other Miscellaneous Crop Farming 	current	2024-12-19		kds_adm	2024-12-19		
+22c11c41e806344b2ca42d0dd66b4919	NASIC	111992	Peanut Farming 	current	2024-12-19		kds_adm	2024-12-19		
+3132622243d3312b531980e3f487161d	NASIC	111991	Sugar Beet Farming 	current	2024-12-19		kds_adm	2024-12-19		
+9b876fc948dd45bc0e7f5608faa279d6	NASIC	111940	Hay Farming 	current	2024-12-19		kds_adm	2024-12-19		
+cb644ee80356cda59c3cfd57133b41e2	NASIC	111930	Sugarcane Farming	current	2024-12-19		kds_adm	2024-12-19		
+b40dca4c3504fa48b23c9d212136bd5e	NASIC	111920	Cotton Farming	current	2024-12-19		kds_adm	2024-12-19		
+e455e7e1b415161a811682aca4abde9b	NASIC	111910	Tobacco Farming	current	2024-12-19		kds_adm	2024-12-19		
+49869f8f5e92ab870d481589bc435be0	NASIC	111422	Floriculture Production 	current	2024-12-19		kds_adm	2024-12-19		
+3b2712ece81138151f4b974c6a66f45a	NASIC	111421	Nursery and Tree Production 	current	2024-12-19		kds_adm	2024-12-19		
+f00fc9394510f28cb5ade55b4c597aaf	NASIC	111419	Other Food Crops Grown Under Cover 	current	2024-12-19		kds_adm	2024-12-19		
+423ebed0d3d740f8165220b4db585f82	NASIC	111411	Mushroom Production 	current	2024-12-19		kds_adm	2024-12-19		
+7035293b3fb15e9c3d4fb6b1c5499cbd	NASIC	111339	Other Noncitrus Fruit Farming 	current	2024-12-19		kds_adm	2024-12-19		
+dc7d752f2609ceda2539710290f25c92	NASIC	111336	Fruit and Tree Nut Combination Farming 	current	2024-12-19		kds_adm	2024-12-19		
+8b67cc9e2a271050d9a0b81ef12c6ccf	NASIC	111335	Tree Nut Farming 	current	2024-12-19		kds_adm	2024-12-19		
+3f076c30bbe4ef8a39d8b8f0bb940566	NASIC	111334	Berry (except Strawberry) Farming 	current	2024-12-19		kds_adm	2024-12-19		
+e5493fb00024d8dbe43a92fa1f895351	NASIC	111333	Strawberry Farming 	current	2024-12-19		kds_adm	2024-12-19		
+471eba43219e0f2caaec6f782e52ad79	NASIC	111332	Grape Vineyards 	current	2024-12-19		kds_adm	2024-12-19		
+99346b5a65274023a02ac4f7a233067f	NASIC	111331	Apple Orchards 	current	2024-12-19		kds_adm	2024-12-19		
+de1b1955ee33e6db3935ba990e4cc402	NASIC	111320	Citrus (except Orange) Groves 	current	2024-12-19		kds_adm	2024-12-19		
+5f463c750a488092303ca632d8d3616c	NASIC	111310	Orange Groves	current	2024-12-19		kds_adm	2024-12-19		
+f406b7138484d1df55355631de4d7cf6	NASIC	111219	Other Vegetable (except Potato) and Melon Farming 	current	2024-12-19		kds_adm	2024-12-19		
+cad58044656baaf950b62f4363491d02	NASIC	111211	Potato Farming 	current	2024-12-19		kds_adm	2024-12-19		
+c89f62074e359de1baa45a2f4736cc04	NASIC	111199	All Other Grain Farming 	current	2024-12-19		kds_adm	2024-12-19		
+9b3171f57bbdaa68ad406415e5d79a1b	NASIC	111191	Oilseed and Grain Combination Farming 	current	2024-12-19		kds_adm	2024-12-19		
+92ac15ff0dcdfc4714c0f3b975a91149	NASIC	111160	Rice Farming	current	2024-12-19		kds_adm	2024-12-19		
+86b2d68b02c0c308b9e2546370da8cc9	NASIC	111150	Corn Farming 	current	2024-12-19		kds_adm	2024-12-19		
+fe366bc632612df90f2b1359a9abfb39	NASIC	111140	Wheat Farming	current	2024-12-19		kds_adm	2024-12-19		
+0f8fd3ed90cdfe0b689b6d74bcee5e2c	NASIC	111130	Dry Pea and Bean Farming 	current	2024-12-19		kds_adm	2024-12-19		
+3541300516aebd87f16711f75ce8a631	NASIC	111120	Oilseed (except Soybean) Farming 	current	2024-12-19		kds_adm	2024-12-19		
+7817bf16ffeacd3bb5ec34be8c4d0061	NASIC	111110	Soybean Farming	current	2024-12-19		kds_adm	2024-12-19		
